@@ -1,0 +1,217 @@
+rider_id,rider_name,city,hub_store_id,onboarding_date,vehicle_type,primary_shift,active_flag,rider_rating,experience_months
+RDR00001,Ayush Kohli,Bengaluru,MFC001,2026-03-11,Motorbike,Evening,Y,4.67,15
+RDR00002,Anmol Char,Bengaluru,MFC001,2024-12-28,Motorbike,Evening,Y,4.74,1
+RDR00003,Ekbal Dhingra,Bengaluru,MFC001,2025-06-28,Motorbike,Evening,Y,4.57,4
+RDR00004,Nathaniel Goda,Bengaluru,MFC001,2023-11-02,Motorbike,Morning,Y,4.7,4
+RDR00005,Chavvi Gulati,Bengaluru,MFC001,2024-11-26,Bicycle,Morning,Y,4.5,16
+RDR00006,Ekalinga Raju,Bengaluru,MFC001,2025-10-15,Motorbike,Morning,Y,4.31,7
+RDR00007,Vansha Dhillon,Bengaluru,MFC001,2025-03-22,Motorbike,Morning,Y,4.76,24
+RDR00008,Chakrika Khare,Bengaluru,MFC001,2024-01-14,Motorbike,Evening,Y,4.22,40
+RDR00009,Jeet Kumar,Bengaluru,MFC001,2025-12-29,E-Bike,Evening,Y,4.92,30
+RDR00010,Yauvani Contractor,Bengaluru,MFC001,2023-11-13,Motorbike,Evening,Y,4.05,24
+RDR00011,Gunbir Bahri,Bengaluru,MFC001,2026-02-15,E-Bike,Night,Y,4.31,28
+RDR00012,Hemal Bera,Bengaluru,MFC001,2024-10-14,Motorbike,Morning,Y,4.39,5
+RDR00013,Ranveer Talwar,Bengaluru,MFC002,2025-04-09,Motorbike,Morning,Y,4.13,24
+RDR00014,Avi Bhasin,Bengaluru,MFC002,2025-08-27,E-Bike,Evening,Y,4.48,30
+RDR00015,Ishanvi Chahal,Bengaluru,MFC002,2025-07-26,E-Bike,Night,Y,5.0,38
+RDR00016,Benjamin Raja,Bengaluru,MFC002,2024-04-22,Bicycle,Evening,Y,4.64,26
+RDR00017,Advika Chand,Bengaluru,MFC002,2025-02-01,Motorbike,Evening,Y,4.45,40
+RDR00018,David Chana,Bengaluru,MFC002,2023-12-30,Motorbike,Night,Y,4.38,1
+RDR00019,Madhavi Barad,Bengaluru,MFC002,2025-11-04,Motorbike,Evening,Y,4.48,10
+RDR00020,Jai Nazareth,Bengaluru,MFC002,2025-06-27,Motorbike,Evening,Y,3.99,3
+RDR00021,Anvi Boase,Bengaluru,MFC002,2024-01-18,Motorbike,Night,Y,4.56,19
+RDR00022,Fariq Kala,Bengaluru,MFC002,2026-01-09,Motorbike,Evening,Y,4.6,12
+RDR00023,Andrew Ben,Bengaluru,MFC002,2024-04-12,Motorbike,Evening,Y,4.32,26
+RDR00024,Rishi Bhalla,Bengaluru,MFC002,2025-02-18,Motorbike,Morning,Y,4.3,11
+RDR00025,Januja Mishra,Bengaluru,MFC003,2025-04-18,Bicycle,Evening,Y,5.0,29
+RDR00026,Hardik Loyal,Bengaluru,MFC003,2024-09-24,Motorbike,Night,Y,4.29,41
+RDR00027,Alka Kale,Bengaluru,MFC003,2024-09-24,Motorbike,Evening,Y,4.4,14
+RDR00028,Ekavir Ramanathan,Bengaluru,MFC003,2025-11-05,Bicycle,Night,Y,4.74,12
+RDR00029,Qarin Halder,Bengaluru,MFC003,2026-01-01,Motorbike,Night,Y,4.41,8
+RDR00030,Jalsa Suresh,Bengaluru,MFC003,2025-11-29,Motorbike,Evening,Y,4.69,11
+RDR00031,Anika Menon,Bengaluru,MFC003,2025-05-18,Motorbike,Morning,Y,4.58,31
+RDR00032,Urmi Malhotra,Bengaluru,MFC003,2025-12-17,Bicycle,Morning,Y,4.54,31
+RDR00033,Ethan Deol,Bengaluru,MFC003,2025-01-19,E-Bike,Evening,Y,4.47,14
+RDR00034,Raghav Sodhi,Bengaluru,MFC003,2024-07-27,E-Bike,Evening,Y,4.61,28
+RDR00035,Lekha Kapadia,Bengaluru,MFC003,2025-10-10,Motorbike,Evening,Y,4.47,4
+RDR00036,Vincent Hari,Bengaluru,MFC003,2024-06-20,E-Bike,Morning,Y,4.54,14
+RDR00037,Theodore Saini,Bengaluru,MFC004,2025-07-21,Motorbike,Evening,Y,4.3,3
+RDR00038,Ekta Loyal,Bengaluru,MFC004,2024-04-26,E-Bike,Night,Y,4.4,24
+RDR00039,Tamanna Sinha,Bengaluru,MFC004,2024-08-08,Motorbike,Evening,Y,4.42,32
+RDR00040,Kritika Shankar,Bengaluru,MFC004,2025-07-06,E-Bike,Evening,Y,4.5,32
+RDR00041,Aarnav Mukhopadhyay,Bengaluru,MFC004,2025-12-27,Bicycle,Evening,Y,4.69,31
+RDR00042,Yachana Sahota,Bengaluru,MFC004,2024-08-15,Motorbike,Evening,Y,4.65,17
+RDR00043,Hitesh Khurana,Bengaluru,MFC004,2024-02-23,Bicycle,Evening,Y,4.3,37
+RDR00044,Kashish Hayre,Bengaluru,MFC004,2024-10-15,Motorbike,Evening,Y,4.25,40
+RDR00045,Charles Wason,Bengaluru,MFC004,2023-11-11,Motorbike,Morning,Y,4.62,38
+RDR00046,Robert Balay,Bengaluru,MFC004,2023-11-18,Motorbike,Morning,Y,4.58,31
+RDR00047,Xavier Chaudhry,Bengaluru,MFC004,2025-07-13,E-Bike,Morning,Y,4.72,14
+RDR00048,Owen Goda,Bengaluru,MFC004,2025-12-30,Motorbike,Night,Y,4.43,28
+RDR00049,Sai Peri,Bengaluru,MFC005,2025-10-18,E-Bike,Morning,Y,4.84,21
+RDR00050,Warinder Lall,Bengaluru,MFC005,2025-08-26,Motorbike,Morning,Y,4.66,5
+RDR00051,Idika Wadhwa,Bengaluru,MFC005,2024-04-02,Motorbike,Night,Y,4.29,15
+RDR00052,Omaja Tata,Bengaluru,MFC005,2024-10-02,Motorbike,Night,Y,4.21,5
+RDR00053,Qasim Bakshi,Bengaluru,MFC005,2025-05-06,Bicycle,Night,Y,4.39,8
+RDR00054,Leela Garg,Bengaluru,MFC005,2025-07-11,Motorbike,Night,N,3.67,3
+RDR00055,Advay Sangha,Bengaluru,MFC005,2025-09-25,Motorbike,Morning,Y,4.54,8
+RDR00056,Faras Tata,Bengaluru,MFC005,2025-12-05,Motorbike,Evening,Y,4.64,15
+RDR00057,Siya Mukhopadhyay,Bengaluru,MFC005,2025-01-03,Motorbike,Evening,Y,4.37,22
+RDR00058,Aahana Keer,Bengaluru,MFC005,2024-10-14,Motorbike,Evening,Y,4.26,37
+RDR00059,Yasti Mahajan,Bengaluru,MFC005,2025-11-29,Motorbike,Night,Y,4.67,21
+RDR00060,Siya Rai,Bengaluru,MFC005,2025-09-15,Motorbike,Night,Y,4.35,41
+RDR00061,Dayamai Sandal,Delhi NCR,MFC006,2025-02-23,E-Bike,Morning,Y,4.85,11
+RDR00062,Balvan Kaul,Delhi NCR,MFC006,2025-12-02,Motorbike,Evening,Y,5.0,1
+RDR00063,Owen Parsa,Delhi NCR,MFC006,2025-09-30,E-Bike,Evening,Y,4.79,19
+RDR00064,Omisha Shukla,Delhi NCR,MFC006,2023-11-22,Motorbike,Evening,Y,4.5,24
+RDR00065,Umang Goswami,Delhi NCR,MFC006,2025-02-25,Motorbike,Evening,Y,4.46,37
+RDR00066,Christopher Dua,Delhi NCR,MFC006,2024-08-02,Motorbike,Evening,Y,4.4,6
+RDR00067,Oni Sharaf,Delhi NCR,MFC006,2026-01-16,Motorbike,Evening,Y,3.97,36
+RDR00068,Siddharth Prabhakar,Delhi NCR,MFC006,2025-03-14,Motorbike,Night,Y,4.7,27
+RDR00069,Gavin Goda,Delhi NCR,MFC006,2025-08-17,E-Bike,Evening,Y,4.24,24
+RDR00070,Harrison Sehgal,Delhi NCR,MFC006,2024-12-13,Motorbike,Evening,Y,4.16,39
+RDR00071,Nihal Loyal,Delhi NCR,MFC006,2024-12-26,Motorbike,Evening,Y,4.75,33
+RDR00072,Finn Chokshi,Delhi NCR,MFC006,2025-04-18,Motorbike,Morning,Y,4.62,9
+RDR00073,Leena Sankar,Delhi NCR,MFC007,2026-01-13,Motorbike,Evening,Y,4.89,21
+RDR00074,Gopal Sandal,Delhi NCR,MFC007,2024-12-11,Motorbike,Evening,Y,4.49,11
+RDR00075,Chandani Panchal,Delhi NCR,MFC007,2025-07-28,Motorbike,Night,N,4.39,7
+RDR00076,Ijaya Khurana,Delhi NCR,MFC007,2024-10-29,E-Bike,Evening,Y,4.99,5
+RDR00077,Manan Chaudhry,Delhi NCR,MFC007,2025-11-02,Motorbike,Morning,Y,4.47,15
+RDR00078,Balhaar Sankaran,Delhi NCR,MFC007,2024-03-23,Motorbike,Evening,Y,4.47,6
+RDR00079,Gaurang Karpe,Delhi NCR,MFC007,2025-03-20,Bicycle,Evening,Y,3.7,39
+RDR00080,Gautami Date,Delhi NCR,MFC007,2024-06-18,E-Bike,Evening,Y,4.43,29
+RDR00081,Keya Dalal,Delhi NCR,MFC007,2024-06-27,Motorbike,Evening,Y,4.93,14
+RDR00082,Ati Bhatia,Delhi NCR,MFC007,2025-04-20,E-Bike,Evening,Y,4.18,7
+RDR00083,Aadi Mallick,Delhi NCR,MFC007,2025-06-30,Motorbike,Evening,Y,4.79,35
+RDR00084,Anay Iyengar,Delhi NCR,MFC007,2024-05-24,E-Bike,Morning,Y,4.05,1
+RDR00085,Aarna Handa,Delhi NCR,MFC008,2025-12-09,Motorbike,Night,Y,3.85,38
+RDR00086,Saanvi Shankar,Delhi NCR,MFC008,2024-06-22,Motorbike,Evening,Y,4.39,29
+RDR00087,Zaitra Barad,Delhi NCR,MFC008,2024-08-31,Motorbike,Morning,Y,4.39,24
+RDR00088,Vanya Kapur,Delhi NCR,MFC008,2024-09-07,Motorbike,Evening,Y,4.41,5
+RDR00089,Urvi Pandit,Delhi NCR,MFC008,2025-05-04,Motorbike,Morning,Y,4.37,3
+RDR00090,Guneet Mand,Delhi NCR,MFC008,2026-01-19,Motorbike,Evening,Y,4.04,31
+RDR00091,Zaitra Choudhry,Delhi NCR,MFC008,2023-11-03,E-Bike,Evening,N,4.42,34
+RDR00092,Yatan Shah,Delhi NCR,MFC008,2025-10-12,Bicycle,Morning,Y,4.01,13
+RDR00093,Chandresh Gala,Delhi NCR,MFC008,2025-12-10,E-Bike,Morning,Y,4.35,33
+RDR00094,Wishi Keer,Delhi NCR,MFC008,2024-11-13,E-Bike,Morning,Y,4.69,22
+RDR00095,Kashvi Singh,Delhi NCR,MFC008,2025-07-11,Motorbike,Evening,Y,4.34,21
+RDR00096,Thomas Nazareth,Delhi NCR,MFC008,2024-07-19,Bicycle,Morning,Y,4.26,36
+RDR00097,Dhruv Sidhu,Mumbai,MFC009,2025-08-29,E-Bike,Night,N,4.47,27
+RDR00098,Urishilla Gour,Mumbai,MFC009,2023-11-16,Motorbike,Night,Y,4.86,41
+RDR00099,Om Hayre,Mumbai,MFC009,2025-09-23,E-Bike,Evening,Y,4.6,33
+RDR00100,Riya Cheema,Mumbai,MFC009,2024-09-12,Motorbike,Night,Y,4.54,10
+RDR00101,Ekalinga Mandal,Mumbai,MFC009,2024-02-06,Motorbike,Morning,Y,4.33,21
+RDR00102,Mitesh Subramanian,Mumbai,MFC009,2024-05-29,E-Bike,Evening,Y,4.2,29
+RDR00103,Logan Chaudhary,Mumbai,MFC009,2024-01-21,E-Bike,Night,Y,4.15,29
+RDR00104,Neelima Sem,Mumbai,MFC009,2024-05-16,Motorbike,Evening,Y,4.51,41
+RDR00105,Balvan Sangha,Mumbai,MFC009,2025-02-09,E-Bike,Evening,Y,4.35,2
+RDR00106,Ayushman Bail,Mumbai,MFC009,2024-10-04,Motorbike,Evening,Y,4.14,2
+RDR00107,Jasmit Sankaran,Mumbai,MFC009,2024-07-02,E-Bike,Evening,Y,4.15,34
+RDR00108,Aishani Sha,Mumbai,MFC009,2025-07-17,Bicycle,Evening,Y,4.66,34
+RDR00109,Pavani Hari,Mumbai,MFC010,2025-01-24,Motorbike,Evening,Y,4.53,9
+RDR00110,Alka Dara,Mumbai,MFC010,2025-03-07,E-Bike,Evening,Y,4.44,16
+RDR00111,Balhaar Patla,Mumbai,MFC010,2025-01-30,Motorbike,Morning,Y,4.75,36
+RDR00112,Nathan Pandit,Mumbai,MFC010,2024-09-01,Motorbike,Morning,Y,4.87,21
+RDR00113,Vasudha Kumar,Mumbai,MFC010,2023-11-21,Bicycle,Evening,Y,4.54,19
+RDR00114,Udyati Mangat,Mumbai,MFC010,2025-10-10,E-Bike,Night,Y,4.44,35
+RDR00115,Vasatika Dutt,Mumbai,MFC010,2025-01-24,E-Bike,Morning,Y,3.93,5
+RDR00116,Rehaan Chacko,Mumbai,MFC010,2025-01-31,Motorbike,Evening,Y,3.99,21
+RDR00117,Yamini Jani,Mumbai,MFC010,2024-11-05,E-Bike,Morning,Y,4.63,26
+RDR00118,Isaiah Pingle,Mumbai,MFC010,2025-05-22,E-Bike,Evening,Y,4.34,11
+RDR00119,Idika Mand,Mumbai,MFC010,2024-07-07,Motorbike,Night,Y,4.27,22
+RDR00120,Vidhi Dhaliwal,Mumbai,MFC010,2025-11-28,E-Bike,Morning,Y,4.47,14
+RDR00121,Eshana Edwin,Mumbai,MFC011,2024-10-31,E-Bike,Morning,Y,4.83,30
+RDR00122,Nihal Bhargava,Mumbai,MFC011,2024-05-15,E-Bike,Evening,Y,4.62,17
+RDR00123,Zaid Bhandari,Mumbai,MFC011,2026-02-22,Bicycle,Morning,Y,4.66,34
+RDR00124,Upasna Balay,Mumbai,MFC011,2023-12-09,E-Bike,Morning,Y,4.82,35
+RDR00125,Gopal Pai,Mumbai,MFC011,2024-01-30,Motorbike,Evening,Y,4.5,22
+RDR00126,Tamanna Arora,Mumbai,MFC011,2024-10-19,Motorbike,Evening,Y,4.74,9
+RDR00127,Chaitaly Palan,Mumbai,MFC011,2024-10-13,Motorbike,Evening,Y,4.41,39
+RDR00128,Rehaan Morar,Mumbai,MFC011,2026-03-16,E-Bike,Morning,Y,4.59,36
+RDR00129,Adweta Mall,Mumbai,MFC011,2025-12-26,Motorbike,Evening,Y,4.91,1
+RDR00130,Warjas Manda,Mumbai,MFC011,2026-03-14,E-Bike,Evening,Y,4.46,29
+RDR00131,Omaja Dora,Mumbai,MFC011,2025-04-16,Motorbike,Evening,Y,4.35,22
+RDR00132,Hemangini Bumb,Mumbai,MFC011,2026-01-14,E-Bike,Evening,Y,4.62,30
+RDR00133,Max Sharma,Hyderabad,MFC012,2024-02-14,Motorbike,Morning,Y,4.39,35
+RDR00134,Neelima Krishnamurthy,Hyderabad,MFC012,2023-12-02,Motorbike,Morning,Y,4.01,15
+RDR00135,Ikbal Sandal,Hyderabad,MFC012,2025-11-21,Motorbike,Evening,Y,4.3,28
+RDR00136,Farhan Garg,Hyderabad,MFC012,2023-12-04,Motorbike,Evening,Y,4.64,21
+RDR00137,Pallavi Bajaj,Hyderabad,MFC012,2024-02-12,Motorbike,Evening,Y,4.42,40
+RDR00138,Qushi Sant,Hyderabad,MFC012,2024-02-07,Bicycle,Evening,Y,4.28,22
+RDR00139,Qasim Parmer,Hyderabad,MFC012,2023-10-31,Motorbike,Evening,Y,4.27,34
+RDR00140,Krisha Butala,Hyderabad,MFC012,2026-01-01,E-Bike,Evening,Y,4.26,27
+RDR00141,Ikshita Ramachandran,Hyderabad,MFC012,2024-05-27,E-Bike,Morning,Y,4.47,1
+RDR00142,Krishna Halder,Hyderabad,MFC012,2024-09-02,Motorbike,Morning,Y,4.19,26
+RDR00143,Jonathan Ram,Hyderabad,MFC012,2026-02-21,Motorbike,Evening,Y,4.74,39
+RDR00144,Chandani Saran,Hyderabad,MFC012,2024-02-22,Motorbike,Morning,Y,4.65,41
+RDR00145,Charita Madan,Hyderabad,MFC013,2025-08-16,Motorbike,Evening,Y,4.35,9
+RDR00146,Umang Tandon,Hyderabad,MFC013,2025-01-14,E-Bike,Night,Y,4.39,14
+RDR00147,Keya Chandran,Hyderabad,MFC013,2023-11-04,Motorbike,Evening,Y,4.84,30
+RDR00148,Abdul Deol,Hyderabad,MFC013,2024-06-18,Motorbike,Night,Y,4.26,13
+RDR00149,Pranit Pandey,Hyderabad,MFC013,2024-12-22,Motorbike,Evening,Y,4.92,2
+RDR00150,Kalpit Sur,Hyderabad,MFC013,2023-11-12,Motorbike,Evening,Y,4.43,3
+RDR00151,Theodore Narasimhan,Hyderabad,MFC013,2025-01-05,E-Bike,Morning,Y,3.96,2
+RDR00152,Vritti Bhasin,Hyderabad,MFC013,2024-11-17,Motorbike,Evening,Y,4.0,25
+RDR00153,Farhan Bose,Hyderabad,MFC013,2025-12-15,Bicycle,Evening,N,4.18,18
+RDR00154,Hitesh Sastry,Hyderabad,MFC013,2023-11-15,Motorbike,Evening,Y,4.54,29
+RDR00155,Rayaan Singh,Hyderabad,MFC013,2026-02-19,Motorbike,Evening,Y,4.17,10
+RDR00156,Warhi Kalita,Hyderabad,MFC013,2023-12-25,E-Bike,Night,Y,4.66,38
+RDR00157,Mugdha Prashad,Hyderabad,MFC014,2025-06-15,E-Bike,Night,Y,4.46,30
+RDR00158,Oviya Bhasin,Hyderabad,MFC014,2024-06-30,Motorbike,Evening,Y,4.69,40
+RDR00159,Nidra Sule,Hyderabad,MFC014,2024-08-08,Motorbike,Night,Y,4.22,15
+RDR00160,Qasim Khatri,Hyderabad,MFC014,2025-11-21,E-Bike,Morning,Y,4.04,29
+RDR00161,Pushti Walia,Hyderabad,MFC014,2024-07-03,E-Bike,Morning,Y,4.33,10
+RDR00162,Zarna Subramanian,Hyderabad,MFC014,2025-12-09,Motorbike,Evening,Y,4.36,36
+RDR00163,Hemani Karpe,Hyderabad,MFC014,2026-02-13,Motorbike,Morning,Y,4.63,20
+RDR00164,Sudiksha Sethi,Hyderabad,MFC014,2024-02-15,Motorbike,Evening,Y,4.31,32
+RDR00165,Caleb Wali,Hyderabad,MFC014,2024-10-26,E-Bike,Evening,Y,4.38,31
+RDR00166,Ekantika Barman,Hyderabad,MFC014,2025-02-05,E-Bike,Evening,Y,4.62,29
+RDR00167,Qushi Handa,Hyderabad,MFC014,2024-08-15,E-Bike,Evening,Y,4.52,38
+RDR00168,Tejas Kota,Hyderabad,MFC014,2024-08-06,Bicycle,Evening,Y,4.89,5
+RDR00169,Harsh Baral,Chennai,MFC015,2025-02-07,Motorbike,Evening,Y,4.04,29
+RDR00170,Fariq Ghose,Chennai,MFC015,2025-11-12,Motorbike,Morning,Y,4.07,1
+RDR00171,Aarna Murty,Chennai,MFC015,2025-08-23,Motorbike,Night,Y,4.8,30
+RDR00172,Lopa Ravel,Chennai,MFC015,2023-11-07,Motorbike,Evening,Y,4.61,27
+RDR00173,Advay Dyal,Chennai,MFC015,2026-02-10,Motorbike,Evening,Y,4.47,31
+RDR00174,Manan Bakshi,Chennai,MFC015,2025-05-18,Motorbike,Night,Y,4.74,27
+RDR00175,Indira Sodhi,Chennai,MFC015,2026-02-27,E-Bike,Night,Y,4.62,41
+RDR00176,Nathan Palan,Chennai,MFC015,2024-03-10,Motorbike,Evening,Y,4.75,8
+RDR00177,Darpan Nath,Chennai,MFC015,2025-11-10,Motorbike,Morning,N,3.64,35
+RDR00178,Omkaar Ghosh,Chennai,MFC015,2024-12-09,E-Bike,Evening,Y,4.28,13
+RDR00179,Nathaniel Mittal,Chennai,MFC015,2025-08-29,Motorbike,Morning,Y,4.06,11
+RDR00180,Onveer Bajwa,Chennai,MFC015,2025-11-07,E-Bike,Evening,Y,4.46,14
+RDR00181,Netra Prasad,Chennai,MFC016,2024-12-01,Motorbike,Evening,Y,4.38,25
+RDR00182,Rajeshri Konda,Chennai,MFC016,2025-10-16,Motorbike,Evening,Y,4.3,14
+RDR00183,Unni Master,Chennai,MFC016,2024-10-01,Motorbike,Morning,Y,4.53,36
+RDR00184,Yagnesh Nayar,Chennai,MFC016,2025-08-08,Motorbike,Evening,Y,3.98,22
+RDR00185,Dayita Chanda,Chennai,MFC016,2025-06-14,Bicycle,Evening,Y,4.85,12
+RDR00186,Viraj Chawla,Chennai,MFC016,2025-10-02,Bicycle,Morning,Y,4.62,34
+RDR00187,Amol Bhatti,Chennai,MFC016,2024-09-16,Motorbike,Morning,Y,4.28,32
+RDR00188,Anirudh Chad,Chennai,MFC016,2026-01-27,Motorbike,Morning,Y,4.21,3
+RDR00189,Indali Krish,Chennai,MFC016,2024-11-17,E-Bike,Morning,Y,4.88,4
+RDR00190,Dayamai Nagarajan,Chennai,MFC016,2024-01-30,Motorbike,Evening,Y,4.49,41
+RDR00191,Reyansh Samra,Chennai,MFC016,2024-02-21,Motorbike,Night,Y,4.67,11
+RDR00192,Ubika Chakraborty,Chennai,MFC016,2024-08-11,Motorbike,Night,Y,4.6,38
+RDR00193,Siddharth Goel,Pune,MFC017,2025-08-08,Motorbike,Evening,Y,4.76,13
+RDR00194,Kritika Bose,Pune,MFC017,2024-03-23,Motorbike,Evening,Y,4.52,26
+RDR00195,Chakradev Sunder,Pune,MFC017,2023-10-20,Motorbike,Morning,Y,4.1,40
+RDR00196,Vihaan Lanka,Pune,MFC017,2023-12-08,Motorbike,Evening,Y,4.52,8
+RDR00197,Upkaar Mitter,Pune,MFC017,2025-11-07,Motorbike,Morning,Y,4.55,5
+RDR00198,Dhriti Mahal,Pune,MFC017,2025-05-12,E-Bike,Morning,Y,3.73,12
+RDR00199,Rayaan Dua,Pune,MFC017,2025-11-17,Motorbike,Morning,Y,4.36,14
+RDR00200,Simon Kapur,Pune,MFC017,2025-07-01,Motorbike,Night,Y,4.53,35
+RDR00201,Ekapad Bansal,Pune,MFC017,2024-05-08,Motorbike,Morning,N,4.69,16
+RDR00202,Vidhi Singh,Pune,MFC017,2024-07-30,Motorbike,Morning,Y,4.52,3
+RDR00203,Pushti Soni,Pune,MFC017,2024-09-24,Motorbike,Morning,Y,4.5,35
+RDR00204,Krish Sha,Pune,MFC017,2025-10-02,Motorbike,Evening,Y,4.23,9
+RDR00205,Mekhala Deo,Pune,MFC018,2024-05-31,Motorbike,Evening,Y,4.0,23
+RDR00206,Gautami Dube,Pune,MFC018,2025-07-16,Motorbike,Evening,Y,4.68,21
+RDR00207,Madhav Magar,Pune,MFC018,2024-07-15,Motorbike,Evening,Y,4.32,11
+RDR00208,Banjeet Basu,Pune,MFC018,2024-03-11,Motorbike,Night,Y,4.35,23
+RDR00209,Nicholas Warrior,Pune,MFC018,2024-06-20,Motorbike,Night,Y,4.23,20
+RDR00210,Janani Mannan,Pune,MFC018,2025-03-06,E-Bike,Morning,Y,4.13,14
+RDR00211,Krisha Hans,Pune,MFC018,2024-08-06,E-Bike,Morning,Y,4.53,32
+RDR00212,Krishna Bhalla,Pune,MFC018,2025-10-07,Bicycle,Night,Y,3.93,18
+RDR00213,Charles Mahal,Pune,MFC018,2023-12-29,Motorbike,Morning,Y,3.99,11
+RDR00214,Indali Bhalla,Pune,MFC018,2024-06-15,Motorbike,Morning,Y,4.55,36
+RDR00215,Girik Manne,Pune,MFC018,2024-01-20,Motorbike,Evening,Y,4.6,15
+RDR00216,Priya Mohanty,Pune,MFC018,2024-01-16,E-Bike,Evening,Y,4.81,5

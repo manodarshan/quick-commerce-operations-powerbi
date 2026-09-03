@@ -1,0 +1,401 @@
+product_id,product_name,category,subcategory,brand,unit_size,mrp,cost_price,perishable_flag,temperature_zone,shelf_life_days,supplier_id,active_flag
+PRD0001,GoodGrain Rice 001,Staples,Rice,DailyNest,Pack of 4,32.47,25.13,N,Ambient,432,SUP014,Y
+PRD0002,HomeEase Baby Hygiene 002,Baby Care,Baby Hygiene,HomeEase,500 g,430.31,307.5,N,Ambient,421,SUP008,Y
+PRD0003,FreshBasket Juices 003,Snacks & Beverages,Juices,DailyNest,1 kg,18.3,10.42,N,Ambient,303,SUP048,Y
+PRD0004,FreshBasket Skin Care 004,Personal Care,Skin Care,HappyPaws,500 g,538.11,352.7,N,Ambient,773,SUP025,Y
+PRD0005,CareBloom Biscuits 005,Snacks & Beverages,Biscuits,SnackSquare,Pack of 2,60.34,37.57,N,Ambient,173,SUP009,Y
+PRD0006,CareBloom Frozen Vegetables 006,Frozen Food,Frozen Vegetables,HappyPaws,500 g,98.39,56.07,Y,Frozen,30,SUP021,Y
+PRD0007,PureDrop Pulses 007,Staples,Pulses,QuickChoice,1 kg,120.33,82.2,N,Ambient,381,SUP037,Y
+PRD0008,GoodGrain Curd & Yogurt 008,Dairy & Breakfast,Curd & Yogurt,PrimePantry,1 L,83.99,63.67,Y,Chilled,11,SUP011,Y
+PRD0009,FreshBasket Oral Care 009,Personal Care,Oral Care,FreshBasket,250 g,304.3,217.76,N,Ambient,410,SUP028,Y
+PRD0010,HomeEase Laundry 010,Household Care,Laundry,QuickChoice,500 ml,373.49,298.83,N,Ambient,770,SUP021,Y
+PRD0011,QuickChoice Milk 011,Dairy & Breakfast,Milk,DailyNest,Pack of 2,145.09,110.83,Y,Chilled,19,SUP038,Y
+PRD0012,SnackSquare Fresh Fruits 012,Fruits & Vegetables,Fresh Fruits,FreshBasket,500 g,74.66,50.98,Y,Ambient,6,SUP007,Y
+PRD0013,UrbanHarvest Breakfast Cereals 013,Dairy & Breakfast,Breakfast Cereals,HomeEase,1 unit,31.06,23.31,Y,Chilled,28,SUP017,Y
+PRD0014,QuickChoice Oral Care 014,Personal Care,Oral Care,PureDrop,1 L,418.37,245.27,N,Ambient,808,SUP048,Y
+PRD0015,DailyNest Rice 015,Staples,Rice,QuickChoice,1 unit,303.38,238.94,N,Ambient,371,SUP028,Y
+PRD0016,SnackSquare Breakfast Cereals 016,Dairy & Breakfast,Breakfast Cereals,PureDrop,100 g,52.93,31.01,Y,Chilled,24,SUP048,Y
+PRD0017,HomeEase Paper & Disposables 017,Household Care,Paper & Disposables,CareBloom,Pack of 2,62.89,41.51,N,Ambient,507,SUP011,Y
+PRD0018,CareBloom Tea & Coffee 018,Snacks & Beverages,Tea & Coffee,SnackSquare,1 L,422.23,345.97,N,Ambient,63,SUP022,Y
+PRD0019,SnackSquare Oral Care 019,Personal Care,Oral Care,FreshBasket,Pack of 2,666.09,415.2,N,Ambient,368,SUP035,Y
+PRD0020,HomeEase Fresh Vegetables 020,Fruits & Vegetables,Fresh Vegetables,SnackSquare,1 unit,54.64,34.65,Y,Ambient,5,SUP046,Y
+PRD0021,FreshBasket Leafy Vegetables 021,Fruits & Vegetables,Leafy Vegetables,HappyPaws,200 g,21.28,15.34,Y,Ambient,6,SUP045,Y
+PRD0022,CareBloom Pulses 022,Staples,Pulses,DailyNest,500 g,506.1,300.92,N,Ambient,270,SUP049,Y
+PRD0023,NovaHome Ice Cream 023,Frozen Food,Ice Cream,QuickChoice,1 L,122.84,74.63,Y,Frozen,97,SUP004,Y
+PRD0024,HomeEase Pulses 024,Staples,Pulses,NovaHome,200 g,306.7,228.8,N,Ambient,515,SUP035,Y
+PRD0025,GoodGrain Fresh Vegetables 025,Fruits & Vegetables,Fresh Vegetables,HomeEase,1 unit,51.51,36.03,Y,Ambient,2,SUP021,Y
+PRD0026,NovaHome Bread 026,Dairy & Breakfast,Bread,HappyPaws,250 g,28.66,20.08,Y,Chilled,14,SUP011,Y
+PRD0027,HomeEase Fresh Vegetables 027,Fruits & Vegetables,Fresh Vegetables,PrimePantry,1 L,175.14,125.57,Y,Ambient,2,SUP037,Y
+PRD0028,NovaHome Fresh Vegetables 028,Fruits & Vegetables,Fresh Vegetables,FreshBasket,Pack of 4,61.54,37.58,Y,Ambient,8,SUP037,Y
+PRD0029,HappyPaws Dishwashing 029,Household Care,Dishwashing,SnackSquare,1 L,119.19,91.63,N,Ambient,556,SUP007,Y
+PRD0030,HappyPaws Laundry 030,Household Care,Laundry,QuickChoice,1 kg,75.49,55.32,N,Ambient,630,SUP016,Y
+PRD0031,UrbanHarvest Eggs 031,Dairy & Breakfast,Eggs,PrimePantry,Pack of 2,143.38,105.86,Y,Chilled,20,SUP019,Y
+PRD0032,PureDrop Frozen Snacks 032,Frozen Food,Frozen Snacks,GoodGrain,500 g,597.79,378.07,Y,Frozen,231,SUP018,Y
+PRD0033,CareBloom Bath & Body 033,Personal Care,Bath & Body,QuickChoice,500 ml,231.15,176.33,N,Ambient,695,SUP004,Y
+PRD0034,PrimePantry Curd & Yogurt 034,Dairy & Breakfast,Curd & Yogurt,NovaHome,1 kg,28.45,23.23,Y,Chilled,11,SUP004,Y
+PRD0035,HomeEase Mobile Accessories 035,Electronics & Accessories,Mobile Accessories,DailyNest,500 g,496.34,283.42,N,Ambient,532,SUP011,Y
+PRD0036,PureDrop Juices 036,Snacks & Beverages,Juices,CareBloom,100 g,91.94,69.25,N,Ambient,110,SUP043,Y
+PRD0037,HappyPaws Bath & Body 037,Personal Care,Bath & Body,HomeEase,1 unit,494.79,305.49,N,Ambient,396,SUP043,Y
+PRD0038,FreshBasket Skin Care 038,Personal Care,Skin Care,UrbanHarvest,500 ml,32.07,18.34,N,Ambient,876,SUP021,Y
+PRD0039,UrbanHarvest Biscuits 039,Snacks & Beverages,Biscuits,UrbanHarvest,Pack of 4,421.15,269.4,N,Ambient,259,SUP036,Y
+PRD0040,UrbanHarvest Fresh Vegetables 040,Fruits & Vegetables,Fresh Vegetables,DailyNest,200 g,128.66,83.35,Y,Ambient,5,SUP045,Y
+PRD0041,PrimePantry Leafy Vegetables 041,Fruits & Vegetables,Leafy Vegetables,HappyPaws,1 kg,52.4,36.61,Y,Ambient,4,SUP011,Y
+PRD0042,HomeEase Fresh Vegetables 042,Fruits & Vegetables,Fresh Vegetables,QuickChoice,Pack of 4,54.27,34.24,Y,Ambient,3,SUP007,Y
+PRD0043,SnackSquare Biscuits 043,Snacks & Beverages,Biscuits,QuickChoice,1 L,16.99,11.62,N,Ambient,171,SUP028,Y
+PRD0044,PrimePantry Skin Care 044,Personal Care,Skin Care,UrbanHarvest,1 unit,544.92,442.64,N,Ambient,260,SUP035,Y
+PRD0045,PureDrop Soft Drinks 045,Snacks & Beverages,Soft Drinks,FreshBasket,500 ml,241.81,156.99,N,Ambient,252,SUP036,Y
+PRD0046,QuickChoice Soft Drinks 046,Snacks & Beverages,Soft Drinks,HomeEase,1 unit,472.65,365.52,N,Ambient,255,SUP035,Y
+PRD0047,GoodGrain Baby Food 047,Baby Care,Baby Food,PrimePantry,1 L,340.4,216.78,N,Ambient,496,SUP002,Y
+PRD0048,CareBloom Dog Food 048,Pet Care,Dog Food,DailyNest,1 kg,581.26,377.47,N,Ambient,592,SUP015,Y
+PRD0049,NovaHome Mobile Accessories 049,Electronics & Accessories,Mobile Accessories,HappyPaws,500 ml,94.95,63.3,N,Ambient,829,SUP007,Y
+PRD0050,UrbanHarvest Milk 050,Dairy & Breakfast,Milk,FreshBasket,Pack of 4,81.34,53.48,Y,Chilled,21,SUP037,Y
+PRD0051,GoodGrain Milk 051,Dairy & Breakfast,Milk,PrimePantry,Pack of 4,172.71,137.59,Y,Chilled,27,SUP009,Y
+PRD0052,FreshBasket Chips & Namkeen 052,Snacks & Beverages,Chips & Namkeen,DailyNest,Pack of 2,18.32,10.25,N,Ambient,211,SUP037,Y
+PRD0053,PrimePantry Soft Drinks 053,Snacks & Beverages,Soft Drinks,SnackSquare,200 g,29.07,18.38,N,Ambient,282,SUP019,Y
+PRD0054,PrimePantry Oral Care 054,Personal Care,Oral Care,SnackSquare,200 g,236.09,141.01,N,Ambient,412,SUP027,Y
+PRD0055,GoodGrain Leafy Vegetables 055,Fruits & Vegetables,Leafy Vegetables,SnackSquare,200 g,48.84,29.34,Y,Ambient,9,SUP048,Y
+PRD0056,HomeEase Small Appliances 056,Electronics & Accessories,Small Appliances,QuickChoice,500 ml,818.77,533.72,N,Ambient,1453,SUP017,Y
+PRD0057,HappyPaws Oral Care 057,Personal Care,Oral Care,SnackSquare,250 g,711.4,544.53,N,Ambient,843,SUP031,Y
+PRD0058,SnackSquare Batteries 058,Electronics & Accessories,Batteries,CareBloom,200 g,570.73,376.9,N,Ambient,1185,SUP038,Y
+PRD0059,SnackSquare Soft Drinks 059,Snacks & Beverages,Soft Drinks,DailyNest,500 g,27.76,18.37,N,Ambient,308,SUP016,Y
+PRD0060,PrimePantry Juices 060,Snacks & Beverages,Juices,NovaHome,100 g,10.21,6.37,N,Ambient,253,SUP014,Y
+PRD0061,DailyNest Cooking Oil 061,Staples,Cooking Oil,HappyPaws,1 unit,39.08,28.83,N,Ambient,494,SUP009,Y
+PRD0062,DailyNest Surface Cleaners 062,Household Care,Surface Cleaners,SnackSquare,200 g,84.26,51.68,N,Ambient,839,SUP034,Y
+PRD0063,FreshBasket Curd & Yogurt 063,Dairy & Breakfast,Curd & Yogurt,HomeEase,Pack of 2,109.0,66.36,Y,Chilled,14,SUP045,Y
+PRD0064,SnackSquare Pet Hygiene 064,Pet Care,Pet Hygiene,HappyPaws,250 g,353.52,222.34,N,Ambient,230,SUP017,Y
+PRD0065,QuickChoice Laundry 065,Household Care,Laundry,PrimePantry,250 g,754.45,419.57,N,Ambient,818,SUP024,Y
+PRD0066,HomeEase Curd & Yogurt 066,Dairy & Breakfast,Curd & Yogurt,HomeEase,Pack of 2,68.31,50.66,Y,Chilled,4,SUP030,Y
+PRD0067,SnackSquare Dishwashing 067,Household Care,Dishwashing,NovaHome,Pack of 4,648.49,523.72,N,Ambient,826,SUP020,Y
+PRD0068,PrimePantry Fresh Fruits 068,Fruits & Vegetables,Fresh Fruits,UrbanHarvest,250 g,71.52,46.91,Y,Ambient,7,SUP043,Y
+PRD0069,PureDrop Baby Hygiene 069,Baby Care,Baby Hygiene,GoodGrain,100 g,396.35,322.4,N,Ambient,489,SUP041,Y
+PRD0070,QuickChoice Small Appliances 070,Electronics & Accessories,Small Appliances,NovaHome,1 L,1766.58,1119.85,N,Ambient,1111,SUP028,Y
+PRD0071,SnackSquare Baby Food 071,Baby Care,Baby Food,GoodGrain,1 unit,1251.96,980.54,N,Ambient,603,SUP025,Y
+PRD0072,GoodGrain Spices 072,Staples,Spices,HappyPaws,1 L,269.23,148.68,N,Ambient,112,SUP012,Y
+PRD0073,UrbanHarvest Fresh Fruits 073,Fruits & Vegetables,Fresh Fruits,CareBloom,250 g,255.46,205.94,Y,Ambient,5,SUP050,Y
+PRD0074,QuickChoice Eggs 074,Dairy & Breakfast,Eggs,NovaHome,1 unit,346.34,196.66,Y,Chilled,18,SUP012,Y
+PRD0075,FreshBasket Soft Drinks 075,Snacks & Beverages,Soft Drinks,GoodGrain,500 g,90.35,50.9,N,Ambient,107,SUP020,Y
+PRD0076,HomeEase Flour 076,Staples,Flour,NovaHome,250 g,686.67,389.46,N,Ambient,458,SUP008,Y
+PRD0077,SnackSquare Curd & Yogurt 077,Dairy & Breakfast,Curd & Yogurt,PrimePantry,Pack of 2,127.72,99.22,Y,Chilled,8,SUP001,Y
+PRD0078,QuickChoice Mobile Accessories 078,Electronics & Accessories,Mobile Accessories,FreshBasket,1 unit,268.4,217.36,N,Ambient,1254,SUP003,Y
+PRD0079,PrimePantry Milk 079,Dairy & Breakfast,Milk,PureDrop,200 g,153.41,113.96,Y,Chilled,24,SUP011,Y
+PRD0080,HappyPaws Bath & Body 080,Personal Care,Bath & Body,HomeEase,500 g,166.33,129.25,N,Ambient,572,SUP046,Y
+PRD0081,CareBloom Leafy Vegetables 081,Fruits & Vegetables,Leafy Vegetables,QuickChoice,Pack of 2,144.71,86.19,Y,Ambient,5,SUP021,Y
+PRD0082,FreshBasket Leafy Vegetables 082,Fruits & Vegetables,Leafy Vegetables,CareBloom,500 g,108.66,83.31,Y,Ambient,10,SUP023,Y
+PRD0083,NovaHome Bath & Body 083,Personal Care,Bath & Body,CareBloom,250 g,136.12,93.1,N,Ambient,649,SUP012,Y
+PRD0084,GoodGrain Fresh Vegetables 084,Fruits & Vegetables,Fresh Vegetables,UrbanHarvest,250 g,271.09,208.84,Y,Ambient,10,SUP048,Y
+PRD0085,PrimePantry Fresh Vegetables 085,Fruits & Vegetables,Fresh Vegetables,CareBloom,200 g,68.49,48.98,Y,Ambient,9,SUP001,Y
+PRD0086,FreshBasket Baby Food 086,Baby Care,Baby Food,PrimePantry,500 g,198.85,110.31,N,Ambient,566,SUP038,Y
+PRD0087,FreshBasket Pet Hygiene 087,Pet Care,Pet Hygiene,PrimePantry,500 g,171.98,137.27,N,Ambient,456,SUP022,Y
+PRD0088,HappyPaws Batteries 088,Electronics & Accessories,Batteries,UrbanHarvest,Pack of 2,113.27,80.57,N,Ambient,482,SUP017,Y
+PRD0089,UrbanHarvest Soft Drinks 089,Snacks & Beverages,Soft Drinks,UrbanHarvest,200 g,60.36,39.27,N,Ambient,322,SUP025,Y
+PRD0090,PureDrop Small Appliances 090,Electronics & Accessories,Small Appliances,FreshBasket,500 ml,174.98,98.89,N,Ambient,951,SUP005,Y
+PRD0091,PrimePantry Juices 091,Snacks & Beverages,Juices,NovaHome,100 g,10.25,8.0,N,Ambient,100,SUP001,Y
+PRD0092,FreshBasket Frozen Vegetables 092,Frozen Food,Frozen Vegetables,CareBloom,1 unit,201.81,146.99,Y,Frozen,129,SUP026,Y
+PRD0093,QuickChoice Chips & Namkeen 093,Snacks & Beverages,Chips & Namkeen,HappyPaws,200 g,56.61,35.19,N,Ambient,310,SUP003,Y
+PRD0094,FreshBasket Baby Food 094,Baby Care,Baby Food,PrimePantry,Pack of 2,107.74,74.0,N,Ambient,229,SUP003,Y
+PRD0095,SnackSquare Pulses 095,Staples,Pulses,PureDrop,500 ml,59.74,40.05,N,Ambient,312,SUP024,Y
+PRD0096,NovaHome Milk 096,Dairy & Breakfast,Milk,GoodGrain,Pack of 4,202.7,122.86,Y,Chilled,18,SUP027,Y
+PRD0097,QuickChoice Chips & Namkeen 097,Snacks & Beverages,Chips & Namkeen,GoodGrain,100 g,119.03,74.95,N,Ambient,279,SUP033,Y
+PRD0098,PureDrop Diapers 098,Baby Care,Diapers,DailyNest,Pack of 2,605.32,422.45,N,Ambient,717,SUP013,Y
+PRD0099,SnackSquare Hair Care 099,Personal Care,Hair Care,NovaHome,1 unit,130.91,83.38,N,Ambient,697,SUP036,Y
+PRD0100,NovaHome Batteries 100,Electronics & Accessories,Batteries,GoodGrain,Pack of 4,675.05,530.72,N,Ambient,405,SUP020,Y
+PRD0101,HappyPaws Eggs 101,Dairy & Breakfast,Eggs,CareBloom,100 g,170.53,127.66,Y,Chilled,9,SUP005,Y
+PRD0102,QuickChoice Spices 102,Staples,Spices,FreshBasket,250 g,280.06,202.3,N,Ambient,246,SUP013,Y
+PRD0103,PureDrop Fresh Vegetables 103,Fruits & Vegetables,Fresh Vegetables,GoodGrain,Pack of 2,105.06,60.52,Y,Ambient,4,SUP049,Y
+PRD0104,GoodGrain Eggs 104,Dairy & Breakfast,Eggs,PrimePantry,500 ml,84.5,49.77,Y,Chilled,12,SUP023,Y
+PRD0105,NovaHome Diapers 105,Baby Care,Diapers,PrimePantry,250 g,217.96,126.22,N,Ambient,644,SUP027,Y
+PRD0106,SnackSquare Baby Food 106,Baby Care,Baby Food,PureDrop,200 g,287.88,159.83,N,Ambient,316,SUP017,Y
+PRD0107,NovaHome Sugar & Salt 107,Staples,Sugar & Salt,CareBloom,500 g,100.65,72.59,N,Ambient,466,SUP045,Y
+PRD0108,PrimePantry Small Appliances 108,Electronics & Accessories,Small Appliances,HomeEase,1 kg,252.34,178.07,N,Ambient,923,SUP001,Y
+PRD0109,HappyPaws Laundry 109,Household Care,Laundry,HappyPaws,Pack of 2,103.44,63.04,N,Ambient,744,SUP028,Y
+PRD0110,PrimePantry Biscuits 110,Snacks & Beverages,Biscuits,DailyNest,Pack of 4,154.53,120.04,N,Ambient,232,SUP034,Y
+PRD0111,PrimePantry Paper & Disposables 111,Household Care,Paper & Disposables,PrimePantry,1 unit,81.38,58.77,N,Ambient,849,SUP024,Y
+PRD0112,HomeEase Fresh Vegetables 112,Fruits & Vegetables,Fresh Vegetables,UrbanHarvest,250 g,56.77,32.95,Y,Ambient,7,SUP040,Y
+PRD0113,HomeEase Juices 113,Snacks & Beverages,Juices,HappyPaws,1 L,123.69,91.34,N,Ambient,222,SUP031,Y
+PRD0114,GoodGrain Fresh Fruits 114,Fruits & Vegetables,Fresh Fruits,QuickChoice,500 ml,35.69,20.1,Y,Ambient,6,SUP030,Y
+PRD0115,QuickChoice Cooking Oil 115,Staples,Cooking Oil,HomeEase,1 kg,47.92,31.15,N,Ambient,523,SUP032,Y
+PRD0116,DailyNest Baby Food 116,Baby Care,Baby Food,FreshBasket,500 g,161.43,132.3,N,Ambient,610,SUP023,Y
+PRD0117,PureDrop Frozen Vegetables 117,Frozen Food,Frozen Vegetables,HomeEase,1 L,60.57,39.17,Y,Frozen,340,SUP039,Y
+PRD0118,QuickChoice Breakfast Cereals 118,Dairy & Breakfast,Breakfast Cereals,GoodGrain,200 g,145.96,106.43,Y,Chilled,13,SUP015,Y
+PRD0119,NovaHome Bath & Body 119,Personal Care,Bath & Body,FreshBasket,500 g,216.07,176.98,N,Ambient,779,SUP041,Y
+PRD0120,PrimePantry Paper & Disposables 120,Household Care,Paper & Disposables,GoodGrain,Pack of 2,90.19,63.95,N,Ambient,374,SUP016,Y
+PRD0121,CareBloom Chips & Namkeen 121,Snacks & Beverages,Chips & Namkeen,FreshBasket,250 g,554.91,423.15,N,Ambient,115,SUP020,Y
+PRD0122,FreshBasket Leafy Vegetables 122,Fruits & Vegetables,Leafy Vegetables,QuickChoice,Pack of 4,34.7,24.64,Y,Ambient,8,SUP030,Y
+PRD0123,PureDrop Mobile Accessories 123,Electronics & Accessories,Mobile Accessories,PrimePantry,100 g,1740.45,1108.49,N,Ambient,747,SUP001,Y
+PRD0124,UrbanHarvest Baby Hygiene 124,Baby Care,Baby Hygiene,QuickChoice,1 unit,221.36,123.5,N,Ambient,668,SUP013,Y
+PRD0125,SnackSquare Chips & Namkeen 125,Snacks & Beverages,Chips & Namkeen,PrimePantry,250 g,50.03,37.33,N,Ambient,257,SUP014,Y
+PRD0126,PureDrop Flour 126,Staples,Flour,PureDrop,Pack of 2,130.77,99.76,N,Ambient,267,SUP046,Y
+PRD0127,QuickChoice Eggs 127,Dairy & Breakfast,Eggs,CareBloom,Pack of 2,45.66,26.39,Y,Chilled,7,SUP043,Y
+PRD0128,DailyNest Surface Cleaners 128,Household Care,Surface Cleaners,NovaHome,100 g,43.34,31.62,N,Ambient,521,SUP024,Y
+PRD0129,CareBloom Pulses 129,Staples,Pulses,FreshBasket,Pack of 2,169.79,95.33,N,Ambient,511,SUP003,Y
+PRD0130,CareBloom Fresh Fruits 130,Fruits & Vegetables,Fresh Fruits,SnackSquare,Pack of 2,228.61,185.23,Y,Ambient,8,SUP045,Y
+PRD0131,QuickChoice Flour 131,Staples,Flour,SnackSquare,Pack of 2,421.98,312.25,N,Ambient,447,SUP021,Y
+PRD0132,DailyNest Fresh Vegetables 132,Fruits & Vegetables,Fresh Vegetables,FreshBasket,200 g,130.15,73.86,Y,Ambient,3,SUP029,Y
+PRD0133,CareBloom Pulses 133,Staples,Pulses,PureDrop,Pack of 4,734.71,543.39,N,Ambient,188,SUP035,Y
+PRD0134,PrimePantry Fresh Vegetables 134,Fruits & Vegetables,Fresh Vegetables,CareBloom,1 kg,279.03,211.63,Y,Ambient,3,SUP021,Y
+PRD0135,PureDrop Milk 135,Dairy & Breakfast,Milk,CareBloom,Pack of 4,69.4,55.3,Y,Chilled,7,SUP046,Y
+PRD0136,NovaHome Bath & Body 136,Personal Care,Bath & Body,HappyPaws,500 ml,291.71,170.88,N,Ambient,362,SUP003,Y
+PRD0137,PrimePantry Hair Care 137,Personal Care,Hair Care,UrbanHarvest,100 g,216.98,137.08,N,Ambient,675,SUP040,Y
+PRD0138,QuickChoice Tea & Coffee 138,Snacks & Beverages,Tea & Coffee,DailyNest,1 unit,212.19,143.21,N,Ambient,154,SUP016,Y
+PRD0139,SnackSquare Bath & Body 139,Personal Care,Bath & Body,UrbanHarvest,250 g,995.89,750.2,N,Ambient,656,SUP026,Y
+PRD0140,FreshBasket Frozen Vegetables 140,Frozen Food,Frozen Vegetables,CareBloom,1 unit,221.27,149.65,Y,Frozen,171,SUP046,Y
+PRD0141,QuickChoice Pet Hygiene 141,Pet Care,Pet Hygiene,CareBloom,Pack of 4,356.15,253.94,N,Ambient,631,SUP001,Y
+PRD0142,UrbanHarvest Tea & Coffee 142,Snacks & Beverages,Tea & Coffee,SnackSquare,Pack of 2,150.46,101.58,N,Ambient,329,SUP047,Y
+PRD0143,NovaHome Fresh Fruits 143,Fruits & Vegetables,Fresh Fruits,GoodGrain,1 unit,20.44,14.36,Y,Ambient,4,SUP037,Y
+PRD0144,NovaHome Frozen Vegetables 144,Frozen Food,Frozen Vegetables,PureDrop,Pack of 2,321.58,230.04,Y,Frozen,296,SUP001,Y
+PRD0145,CareBloom Paper & Disposables 145,Household Care,Paper & Disposables,FreshBasket,Pack of 4,230.77,179.98,N,Ambient,767,SUP044,Y
+PRD0146,PrimePantry Baby Hygiene 146,Baby Care,Baby Hygiene,PureDrop,Pack of 2,785.59,492.18,N,Ambient,558,SUP032,Y
+PRD0147,GoodGrain Fresh Fruits 147,Fruits & Vegetables,Fresh Fruits,NovaHome,500 g,192.88,145.0,Y,Ambient,5,SUP045,Y
+PRD0148,PureDrop Fresh Fruits 148,Fruits & Vegetables,Fresh Fruits,CareBloom,250 g,84.58,64.25,Y,Ambient,5,SUP041,Y
+PRD0149,SnackSquare Fresh Fruits 149,Fruits & Vegetables,Fresh Fruits,FreshBasket,100 g,82.42,58.43,Y,Ambient,3,SUP049,Y
+PRD0150,UrbanHarvest Paper & Disposables 150,Household Care,Paper & Disposables,UrbanHarvest,1 L,490.74,382.71,N,Ambient,371,SUP046,Y
+PRD0151,SnackSquare Eggs 151,Dairy & Breakfast,Eggs,FreshBasket,200 g,442.51,246.52,Y,Chilled,10,SUP016,Y
+PRD0152,HappyPaws Chips & Namkeen 152,Snacks & Beverages,Chips & Namkeen,HappyPaws,500 g,142.62,81.15,N,Ambient,207,SUP002,Y
+PRD0153,FreshBasket Leafy Vegetables 153,Fruits & Vegetables,Leafy Vegetables,PrimePantry,1 L,202.79,123.72,Y,Ambient,6,SUP041,Y
+PRD0154,UrbanHarvest Baby Food 154,Baby Care,Baby Food,QuickChoice,500 ml,171.79,109.81,N,Ambient,601,SUP042,Y
+PRD0155,UrbanHarvest Bread 155,Dairy & Breakfast,Bread,PureDrop,500 ml,25.21,19.25,Y,Chilled,18,SUP012,Y
+PRD0156,FreshBasket Batteries 156,Electronics & Accessories,Batteries,UrbanHarvest,1 kg,360.32,227.39,N,Ambient,1282,SUP010,Y
+PRD0157,FreshBasket Laundry 157,Household Care,Laundry,HomeEase,1 L,792.72,623.19,N,Ambient,891,SUP011,Y
+PRD0158,PureDrop Bread 158,Dairy & Breakfast,Bread,SnackSquare,1 kg,64.16,41.58,Y,Chilled,8,SUP030,Y
+PRD0159,HomeEase Small Appliances 159,Electronics & Accessories,Small Appliances,GoodGrain,100 g,269.47,159.58,N,Ambient,824,SUP026,Y
+PRD0160,HappyPaws Dog Food 160,Pet Care,Dog Food,UrbanHarvest,1 unit,221.65,129.39,N,Ambient,557,SUP037,Y
+PRD0161,QuickChoice Surface Cleaners 161,Household Care,Surface Cleaners,NovaHome,200 g,256.68,178.72,N,Ambient,579,SUP048,Y
+PRD0162,UrbanHarvest Skin Care 162,Personal Care,Skin Care,PureDrop,500 ml,62.07,36.96,N,Ambient,340,SUP045,Y
+PRD0163,UrbanHarvest Flour 163,Staples,Flour,PureDrop,250 g,670.51,531.86,N,Ambient,153,SUP009,Y
+PRD0164,HappyPaws Skin Care 164,Personal Care,Skin Care,HomeEase,500 g,37.61,28.66,N,Ambient,494,SUP038,Y
+PRD0165,PrimePantry Small Appliances 165,Electronics & Accessories,Small Appliances,QuickChoice,250 g,83.33,64.11,N,Ambient,853,SUP032,Y
+PRD0166,PureDrop Fresh Fruits 166,Fruits & Vegetables,Fresh Fruits,HomeEase,Pack of 2,97.2,77.18,Y,Ambient,8,SUP049,Y
+PRD0167,GoodGrain Biscuits 167,Snacks & Beverages,Biscuits,PrimePantry,1 kg,161.9,99.78,N,Ambient,90,SUP033,Y
+PRD0168,SnackSquare Baby Food 168,Baby Care,Baby Food,NovaHome,Pack of 4,155.92,100.9,N,Ambient,299,SUP026,Y
+PRD0169,DailyNest Paper & Disposables 169,Household Care,Paper & Disposables,QuickChoice,Pack of 4,117.62,90.98,N,Ambient,467,SUP041,Y
+PRD0170,PrimePantry Hair Care 170,Personal Care,Hair Care,SnackSquare,500 g,158.5,90.47,N,Ambient,770,SUP019,Y
+PRD0171,PureDrop Leafy Vegetables 171,Fruits & Vegetables,Leafy Vegetables,HappyPaws,1 unit,60.68,38.77,Y,Ambient,7,SUP017,Y
+PRD0172,CareBloom Rice 172,Staples,Rice,NovaHome,1 L,75.99,60.02,N,Ambient,301,SUP028,Y
+PRD0173,NovaHome Breakfast Cereals 173,Dairy & Breakfast,Breakfast Cereals,GoodGrain,250 g,251.67,166.29,Y,Chilled,24,SUP019,Y
+PRD0174,SnackSquare Diapers 174,Baby Care,Diapers,DailyNest,Pack of 2,1335.56,948.79,N,Ambient,337,SUP010,Y
+PRD0175,NovaHome Fresh Vegetables 175,Fruits & Vegetables,Fresh Vegetables,HappyPaws,500 ml,36.48,21.18,Y,Ambient,5,SUP014,Y
+PRD0176,SnackSquare Sugar & Salt 176,Staples,Sugar & Salt,PureDrop,Pack of 2,37.4,27.68,N,Ambient,186,SUP020,Y
+PRD0177,CareBloom Mobile Accessories 177,Electronics & Accessories,Mobile Accessories,SnackSquare,Pack of 4,171.51,96.55,N,Ambient,871,SUP041,Y
+PRD0178,HappyPaws Diapers 178,Baby Care,Diapers,NovaHome,500 ml,133.62,77.93,N,Ambient,274,SUP041,Y
+PRD0179,HappyPaws Milk 179,Dairy & Breakfast,Milk,CareBloom,500 ml,420.16,293.36,Y,Chilled,20,SUP024,Y
+PRD0180,FreshBasket Fresh Fruits 180,Fruits & Vegetables,Fresh Fruits,DailyNest,1 L,22.64,13.5,Y,Ambient,3,SUP035,Y
+PRD0181,GoodGrain Tea & Coffee 181,Snacks & Beverages,Tea & Coffee,HappyPaws,Pack of 4,517.08,408.75,N,Ambient,66,SUP028,Y
+PRD0182,HappyPaws Juices 182,Snacks & Beverages,Juices,FreshBasket,200 g,529.18,303.6,N,Ambient,71,SUP003,Y
+PRD0183,PureDrop Surface Cleaners 183,Household Care,Surface Cleaners,PrimePantry,1 kg,107.09,63.58,N,Ambient,578,SUP037,Y
+PRD0184,HomeEase Leafy Vegetables 184,Fruits & Vegetables,Leafy Vegetables,DailyNest,Pack of 2,25.35,19.93,Y,Ambient,6,SUP044,Y
+PRD0185,PureDrop Biscuits 185,Snacks & Beverages,Biscuits,GoodGrain,1 kg,87.69,65.12,N,Ambient,295,SUP036,Y
+PRD0186,GoodGrain Dishwashing 186,Household Care,Dishwashing,HomeEase,100 g,93.14,62.56,N,Ambient,589,SUP013,Y
+PRD0187,CareBloom Tea & Coffee 187,Snacks & Beverages,Tea & Coffee,QuickChoice,1 unit,235.18,139.61,N,Ambient,350,SUP039,Y
+PRD0188,FreshBasket Eggs 188,Dairy & Breakfast,Eggs,HomeEase,500 g,43.77,28.57,Y,Chilled,23,SUP029,Y
+PRD0189,PrimePantry Rice 189,Staples,Rice,CareBloom,500 ml,182.29,127.1,N,Ambient,299,SUP029,Y
+PRD0190,FreshBasket Sugar & Salt 190,Staples,Sugar & Salt,DailyNest,100 g,46.18,27.51,N,Ambient,408,SUP018,Y
+PRD0191,DailyNest Dog Food 191,Pet Care,Dog Food,CareBloom,500 ml,143.7,107.36,N,Ambient,329,SUP025,Y
+PRD0192,CareBloom Diapers 192,Baby Care,Diapers,HomeEase,500 ml,1165.23,862.8,N,Ambient,614,SUP026,Y
+PRD0193,DailyNest Breakfast Cereals 193,Dairy & Breakfast,Breakfast Cereals,NovaHome,1 L,26.78,15.86,Y,Chilled,16,SUP011,Y
+PRD0194,HappyPaws Surface Cleaners 194,Household Care,Surface Cleaners,FreshBasket,Pack of 4,76.35,53.21,N,Ambient,547,SUP001,Y
+PRD0195,HappyPaws Leafy Vegetables 195,Fruits & Vegetables,Leafy Vegetables,HappyPaws,200 g,107.68,85.58,Y,Ambient,5,SUP022,Y
+PRD0196,SnackSquare Ice Cream 196,Frozen Food,Ice Cream,NovaHome,1 L,120.42,70.25,Y,Frozen,209,SUP050,Y
+PRD0197,PrimePantry Fresh Vegetables 197,Fruits & Vegetables,Fresh Vegetables,PrimePantry,500 ml,58.0,39.57,Y,Ambient,2,SUP015,Y
+PRD0198,HomeEase Dog Food 198,Pet Care,Dog Food,QuickChoice,500 ml,164.13,124.05,N,Ambient,693,SUP015,Y
+PRD0199,CareBloom Paper & Disposables 199,Household Care,Paper & Disposables,SnackSquare,1 unit,822.34,575.54,N,Ambient,548,SUP041,Y
+PRD0200,HomeEase Eggs 200,Dairy & Breakfast,Eggs,DailyNest,500 g,186.93,117.66,Y,Chilled,21,SUP009,Y
+PRD0201,SnackSquare Paper & Disposables 201,Household Care,Paper & Disposables,DailyNest,200 g,58.44,45.44,N,Ambient,808,SUP036,Y
+PRD0202,GoodGrain Bath & Body 202,Personal Care,Bath & Body,SnackSquare,500 g,163.53,109.85,N,Ambient,692,SUP020,Y
+PRD0203,GoodGrain Tea & Coffee 203,Snacks & Beverages,Tea & Coffee,QuickChoice,250 g,142.66,87.27,N,Ambient,61,SUP010,Y
+PRD0204,NovaHome Mobile Accessories 204,Electronics & Accessories,Mobile Accessories,HappyPaws,Pack of 2,217.26,162.51,N,Ambient,466,SUP015,Y
+PRD0205,HappyPaws Fresh Vegetables 205,Fruits & Vegetables,Fresh Vegetables,UrbanHarvest,200 g,76.91,60.55,Y,Ambient,4,SUP031,Y
+PRD0206,NovaHome Leafy Vegetables 206,Fruits & Vegetables,Leafy Vegetables,FreshBasket,500 ml,44.13,30.01,Y,Ambient,5,SUP049,Y
+PRD0207,PureDrop Flour 207,Staples,Flour,UrbanHarvest,250 g,54.97,33.78,N,Ambient,164,SUP045,Y
+PRD0208,GoodGrain Breakfast Cereals 208,Dairy & Breakfast,Breakfast Cereals,PureDrop,100 g,283.08,204.35,Y,Chilled,28,SUP038,Y
+PRD0209,DailyNest Juices 209,Snacks & Beverages,Juices,SnackSquare,500 ml,89.08,56.24,N,Ambient,258,SUP013,Y
+PRD0210,HomeEase Hair Care 210,Personal Care,Hair Care,SnackSquare,Pack of 2,51.38,34.46,N,Ambient,471,SUP010,Y
+PRD0211,SnackSquare Juices 211,Snacks & Beverages,Juices,PrimePantry,1 L,503.59,291.41,N,Ambient,265,SUP005,Y
+PRD0212,GoodGrain Breakfast Cereals 212,Dairy & Breakfast,Breakfast Cereals,HappyPaws,100 g,30.07,21.75,Y,Chilled,16,SUP012,Y
+PRD0213,SnackSquare Fresh Fruits 213,Fruits & Vegetables,Fresh Fruits,CareBloom,200 g,129.63,78.09,Y,Ambient,4,SUP013,Y
+PRD0214,HappyPaws Dishwashing 214,Household Care,Dishwashing,FreshBasket,500 ml,156.85,118.91,N,Ambient,710,SUP009,Y
+PRD0215,SnackSquare Frozen Vegetables 215,Frozen Food,Frozen Vegetables,NovaHome,1 unit,164.37,129.44,Y,Frozen,191,SUP047,Y
+PRD0216,PureDrop Eggs 216,Dairy & Breakfast,Eggs,HappyPaws,1 unit,30.46,22.14,Y,Chilled,21,SUP020,Y
+PRD0217,FreshBasket Laundry 217,Household Care,Laundry,HappyPaws,250 g,249.18,171.55,N,Ambient,497,SUP042,Y
+PRD0218,FreshBasket Fresh Vegetables 218,Fruits & Vegetables,Fresh Vegetables,DailyNest,1 unit,99.91,63.96,Y,Ambient,9,SUP038,Y
+PRD0219,FreshBasket Spices 219,Staples,Spices,SnackSquare,200 g,119.46,71.69,N,Ambient,425,SUP023,Y
+PRD0220,CareBloom Eggs 220,Dairy & Breakfast,Eggs,GoodGrain,Pack of 2,73.81,60.21,Y,Chilled,5,SUP004,Y
+PRD0221,HomeEase Surface Cleaners 221,Household Care,Surface Cleaners,GoodGrain,1 L,221.76,125.92,N,Ambient,718,SUP029,Y
+PRD0222,HomeEase Fresh Vegetables 222,Fruits & Vegetables,Fresh Vegetables,DailyNest,500 g,278.22,154.91,Y,Ambient,7,SUP036,Y
+PRD0223,UrbanHarvest Chips & Namkeen 223,Snacks & Beverages,Chips & Namkeen,HappyPaws,1 kg,494.3,340.04,N,Ambient,319,SUP017,Y
+PRD0224,CareBloom Dishwashing 224,Household Care,Dishwashing,UrbanHarvest,Pack of 4,180.63,130.47,N,Ambient,582,SUP014,Y
+PRD0225,HomeEase Frozen Snacks 225,Frozen Food,Frozen Snacks,UrbanHarvest,1 L,233.39,160.53,Y,Frozen,224,SUP001,Y
+PRD0226,HappyPaws Surface Cleaners 226,Household Care,Surface Cleaners,HappyPaws,1 unit,648.69,379.64,N,Ambient,854,SUP045,Y
+PRD0227,PureDrop Breakfast Cereals 227,Dairy & Breakfast,Breakfast Cereals,DailyNest,250 g,449.57,315.57,Y,Chilled,30,SUP001,Y
+PRD0228,PureDrop Soft Drinks 228,Snacks & Beverages,Soft Drinks,PureDrop,Pack of 4,564.7,435.05,N,Ambient,364,SUP036,Y
+PRD0229,NovaHome Soft Drinks 229,Snacks & Beverages,Soft Drinks,DailyNest,Pack of 2,159.23,123.76,N,Ambient,91,SUP014,Y
+PRD0230,PureDrop Diapers 230,Baby Care,Diapers,PrimePantry,1 unit,194.13,107.21,N,Ambient,185,SUP021,Y
+PRD0231,FreshBasket Curd & Yogurt 231,Dairy & Breakfast,Curd & Yogurt,DailyNest,100 g,264.87,212.68,Y,Chilled,22,SUP034,Y
+PRD0232,PrimePantry Leafy Vegetables 232,Fruits & Vegetables,Leafy Vegetables,CareBloom,Pack of 4,155.4,88.95,Y,Ambient,10,SUP045,Y
+PRD0233,DailyNest Leafy Vegetables 233,Fruits & Vegetables,Leafy Vegetables,SnackSquare,1 unit,92.2,53.63,Y,Ambient,9,SUP036,Y
+PRD0234,UrbanHarvest Spices 234,Staples,Spices,DailyNest,500 ml,632.93,472.13,N,Ambient,396,SUP008,Y
+PRD0235,GoodGrain Cooking Oil 235,Staples,Cooking Oil,NovaHome,100 g,357.05,214.61,N,Ambient,90,SUP010,Y
+PRD0236,SnackSquare Laundry 236,Household Care,Laundry,HappyPaws,200 g,128.98,84.28,N,Ambient,730,SUP029,Y
+PRD0237,FreshBasket Breakfast Cereals 237,Dairy & Breakfast,Breakfast Cereals,SnackSquare,Pack of 2,280.88,189.72,Y,Chilled,19,SUP040,Y
+PRD0238,UrbanHarvest Diapers 238,Baby Care,Diapers,HomeEase,500 ml,146.45,86.42,N,Ambient,695,SUP045,Y
+PRD0239,HomeEase Leafy Vegetables 239,Fruits & Vegetables,Leafy Vegetables,HappyPaws,1 L,130.09,76.7,Y,Ambient,10,SUP019,Y
+PRD0240,SnackSquare Leafy Vegetables 240,Fruits & Vegetables,Leafy Vegetables,PureDrop,1 kg,27.53,16.04,Y,Ambient,4,SUP010,Y
+PRD0241,PureDrop Milk 241,Dairy & Breakfast,Milk,DailyNest,500 ml,35.49,23.34,Y,Chilled,3,SUP013,Y
+PRD0242,DailyNest Frozen Snacks 242,Frozen Food,Frozen Snacks,QuickChoice,1 kg,564.33,364.01,Y,Frozen,216,SUP028,Y
+PRD0243,CareBloom Bath & Body 243,Personal Care,Bath & Body,CareBloom,500 ml,90.38,65.36,N,Ambient,827,SUP033,Y
+PRD0244,PureDrop Paper & Disposables 244,Household Care,Paper & Disposables,PrimePantry,500 g,868.1,666.87,N,Ambient,803,SUP011,Y
+PRD0245,HappyPaws Fresh Vegetables 245,Fruits & Vegetables,Fresh Vegetables,QuickChoice,1 unit,203.69,139.32,Y,Ambient,3,SUP042,Y
+PRD0246,DailyNest Fresh Vegetables 246,Fruits & Vegetables,Fresh Vegetables,DailyNest,1 kg,174.16,101.63,Y,Ambient,10,SUP037,Y
+PRD0247,UrbanHarvest Oral Care 247,Personal Care,Oral Care,FreshBasket,500 ml,706.9,402.25,N,Ambient,871,SUP039,Y
+PRD0248,DailyNest Dog Food 248,Pet Care,Dog Food,QuickChoice,Pack of 4,149.31,113.57,N,Ambient,189,SUP028,Y
+PRD0249,HappyPaws Rice 249,Staples,Rice,UrbanHarvest,200 g,68.99,44.33,N,Ambient,536,SUP038,Y
+PRD0250,HomeEase Paper & Disposables 250,Household Care,Paper & Disposables,NovaHome,250 g,266.53,217.31,N,Ambient,733,SUP042,Y
+PRD0251,HomeEase Juices 251,Snacks & Beverages,Juices,SnackSquare,200 g,19.55,11.39,N,Ambient,329,SUP021,Y
+PRD0252,UrbanHarvest Fresh Vegetables 252,Fruits & Vegetables,Fresh Vegetables,FreshBasket,100 g,164.97,108.4,Y,Ambient,4,SUP044,Y
+PRD0253,SnackSquare Cooking Oil 253,Staples,Cooking Oil,DailyNest,Pack of 2,229.62,166.59,N,Ambient,537,SUP013,Y
+PRD0254,PrimePantry Flour 254,Staples,Flour,UrbanHarvest,500 g,69.14,39.43,N,Ambient,527,SUP006,Y
+PRD0255,PrimePantry Flour 255,Staples,Flour,NovaHome,1 L,329.14,261.26,N,Ambient,413,SUP013,Y
+PRD0256,PrimePantry Tea & Coffee 256,Snacks & Beverages,Tea & Coffee,NovaHome,500 g,413.52,277.44,N,Ambient,316,SUP019,Y
+PRD0257,SnackSquare Breakfast Cereals 257,Dairy & Breakfast,Breakfast Cereals,FreshBasket,500 ml,318.66,236.45,Y,Chilled,23,SUP047,Y
+PRD0258,GoodGrain Leafy Vegetables 258,Fruits & Vegetables,Leafy Vegetables,SnackSquare,1 kg,97.35,55.83,Y,Ambient,10,SUP029,Y
+PRD0259,DailyNest Leafy Vegetables 259,Fruits & Vegetables,Leafy Vegetables,HomeEase,250 g,105.45,62.43,Y,Ambient,6,SUP011,Y
+PRD0260,PureDrop Surface Cleaners 260,Household Care,Surface Cleaners,SnackSquare,500 ml,492.66,298.92,N,Ambient,451,SUP044,Y
+PRD0261,CareBloom Oral Care 261,Personal Care,Oral Care,CareBloom,1 kg,92.34,61.58,N,Ambient,896,SUP002,Y
+PRD0262,NovaHome Dishwashing 262,Household Care,Dishwashing,PrimePantry,100 g,156.64,88.5,N,Ambient,752,SUP025,Y
+PRD0263,UrbanHarvest Leafy Vegetables 263,Fruits & Vegetables,Leafy Vegetables,UrbanHarvest,250 g,266.37,213.14,Y,Ambient,6,SUP008,Y
+PRD0264,SnackSquare Juices 264,Snacks & Beverages,Juices,NovaHome,Pack of 2,27.07,22.19,N,Ambient,197,SUP025,Y
+PRD0265,UrbanHarvest Flour 265,Staples,Flour,HappyPaws,500 g,45.86,36.13,N,Ambient,453,SUP047,Y
+PRD0266,PrimePantry Frozen Snacks 266,Frozen Food,Frozen Snacks,QuickChoice,500 g,528.79,415.15,Y,Frozen,237,SUP018,Y
+PRD0267,CareBloom Biscuits 267,Snacks & Beverages,Biscuits,UrbanHarvest,1 unit,29.86,21.85,N,Ambient,148,SUP026,Y
+PRD0268,HomeEase Tea & Coffee 268,Snacks & Beverages,Tea & Coffee,CareBloom,250 g,46.92,26.81,N,Ambient,61,SUP037,Y
+PRD0269,QuickChoice Surface Cleaners 269,Household Care,Surface Cleaners,HappyPaws,100 g,210.59,171.55,N,Ambient,644,SUP021,Y
+PRD0270,CareBloom Surface Cleaners 270,Household Care,Surface Cleaners,NovaHome,1 unit,262.49,186.67,N,Ambient,731,SUP019,Y
+PRD0271,FreshBasket Skin Care 271,Personal Care,Skin Care,HomeEase,100 g,51.95,29.36,N,Ambient,522,SUP042,Y
+PRD0272,FreshBasket Hair Care 272,Personal Care,Hair Care,PureDrop,1 unit,1088.59,843.01,N,Ambient,852,SUP001,Y
+PRD0273,CareBloom Baby Hygiene 273,Baby Care,Baby Hygiene,DailyNest,Pack of 4,91.12,58.34,N,Ambient,379,SUP042,Y
+PRD0274,QuickChoice Chips & Namkeen 274,Snacks & Beverages,Chips & Namkeen,GoodGrain,1 unit,292.71,162.02,N,Ambient,288,SUP045,Y
+PRD0275,PrimePantry Leafy Vegetables 275,Fruits & Vegetables,Leafy Vegetables,PrimePantry,500 ml,124.33,73.52,Y,Ambient,6,SUP040,Y
+PRD0276,DailyNest Mobile Accessories 276,Electronics & Accessories,Mobile Accessories,UrbanHarvest,500 g,1255.19,824.03,N,Ambient,1470,SUP011,Y
+PRD0277,UrbanHarvest Fresh Vegetables 277,Fruits & Vegetables,Fresh Vegetables,CareBloom,1 kg,80.43,64.41,Y,Ambient,4,SUP050,Y
+PRD0278,HappyPaws Small Appliances 278,Electronics & Accessories,Small Appliances,PureDrop,200 g,555.06,307.23,N,Ambient,1232,SUP040,Y
+PRD0279,SnackSquare Surface Cleaners 279,Household Care,Surface Cleaners,FreshBasket,1 L,91.39,71.33,N,Ambient,563,SUP023,Y
+PRD0280,QuickChoice Milk 280,Dairy & Breakfast,Milk,SnackSquare,Pack of 4,440.29,301.41,Y,Chilled,12,SUP032,Y
+PRD0281,PureDrop Frozen Snacks 281,Frozen Food,Frozen Snacks,SnackSquare,Pack of 4,512.81,378.76,Y,Frozen,200,SUP034,Y
+PRD0282,HappyPaws Dishwashing 282,Household Care,Dishwashing,HomeEase,Pack of 2,48.32,35.91,N,Ambient,408,SUP016,Y
+PRD0283,HomeEase Ice Cream 283,Frozen Food,Ice Cream,FreshBasket,250 g,546.12,431.81,Y,Frozen,339,SUP007,Y
+PRD0284,QuickChoice Biscuits 284,Snacks & Beverages,Biscuits,GoodGrain,500 ml,18.39,12.37,N,Ambient,181,SUP046,Y
+PRD0285,GoodGrain Rice 285,Staples,Rice,HomeEase,1 unit,104.93,62.17,N,Ambient,118,SUP004,Y
+PRD0286,UrbanHarvest Baby Food 286,Baby Care,Baby Food,DailyNest,500 g,599.11,398.49,N,Ambient,526,SUP018,Y
+PRD0287,FreshBasket Cooking Oil 287,Staples,Cooking Oil,HappyPaws,200 g,45.94,32.84,N,Ambient,507,SUP027,Y
+PRD0288,QuickChoice Small Appliances 288,Electronics & Accessories,Small Appliances,GoodGrain,1 kg,954.29,619.49,N,Ambient,443,SUP018,Y
+PRD0289,UrbanHarvest Bath & Body 289,Personal Care,Bath & Body,UrbanHarvest,500 ml,559.29,423.14,N,Ambient,398,SUP020,Y
+PRD0290,PureDrop Leafy Vegetables 290,Fruits & Vegetables,Leafy Vegetables,GoodGrain,100 g,28.07,22.67,Y,Ambient,5,SUP010,Y
+PRD0291,SnackSquare Dog Food 291,Pet Care,Dog Food,DailyNest,Pack of 4,80.66,65.67,N,Ambient,504,SUP046,Y
+PRD0292,CareBloom Fresh Vegetables 292,Fruits & Vegetables,Fresh Vegetables,FreshBasket,1 unit,211.73,118.49,Y,Ambient,10,SUP029,Y
+PRD0293,NovaHome Milk 293,Dairy & Breakfast,Milk,QuickChoice,Pack of 2,29.13,19.42,Y,Chilled,29,SUP016,Y
+PRD0294,FreshBasket Cat Food 294,Pet Care,Cat Food,SnackSquare,500 g,326.18,201.82,N,Ambient,393,SUP047,Y
+PRD0295,QuickChoice Biscuits 295,Snacks & Beverages,Biscuits,PrimePantry,1 L,59.98,39.54,N,Ambient,133,SUP021,Y
+PRD0296,DailyNest Flour 296,Staples,Flour,CareBloom,1 kg,100.27,62.94,N,Ambient,516,SUP015,Y
+PRD0297,PrimePantry Hair Care 297,Personal Care,Hair Care,UrbanHarvest,200 g,85.68,68.95,N,Ambient,665,SUP017,Y
+PRD0298,CareBloom Leafy Vegetables 298,Fruits & Vegetables,Leafy Vegetables,CareBloom,1 unit,74.94,44.75,Y,Ambient,2,SUP050,Y
+PRD0299,UrbanHarvest Milk 299,Dairy & Breakfast,Milk,GoodGrain,1 L,49.75,27.66,Y,Chilled,7,SUP025,Y
+PRD0300,PureDrop Soft Drinks 300,Snacks & Beverages,Soft Drinks,CareBloom,100 g,17.73,11.05,N,Ambient,221,SUP030,Y
+PRD0301,FreshBasket Frozen Vegetables 301,Frozen Food,Frozen Vegetables,CareBloom,100 g,226.71,170.23,Y,Frozen,362,SUP023,Y
+PRD0302,FreshBasket Eggs 302,Dairy & Breakfast,Eggs,QuickChoice,250 g,136.7,106.35,Y,Chilled,21,SUP001,Y
+PRD0303,DailyNest Fresh Fruits 303,Fruits & Vegetables,Fresh Fruits,FreshBasket,500 ml,50.63,39.02,Y,Ambient,10,SUP001,Y
+PRD0304,GoodGrain Bread 304,Dairy & Breakfast,Bread,SnackSquare,Pack of 4,58.71,37.43,Y,Chilled,4,SUP017,Y
+PRD0305,NovaHome Bath & Body 305,Personal Care,Bath & Body,PureDrop,1 unit,73.33,41.69,N,Ambient,294,SUP002,Y
+PRD0306,NovaHome Fresh Fruits 306,Fruits & Vegetables,Fresh Fruits,HappyPaws,500 g,195.29,143.25,Y,Ambient,7,SUP049,Y
+PRD0307,CareBloom Juices 307,Snacks & Beverages,Juices,SnackSquare,100 g,32.96,20.95,N,Ambient,355,SUP017,Y
+PRD0308,GoodGrain Eggs 308,Dairy & Breakfast,Eggs,NovaHome,Pack of 4,26.68,17.64,Y,Chilled,21,SUP019,Y
+PRD0309,CareBloom Fresh Vegetables 309,Fruits & Vegetables,Fresh Vegetables,HappyPaws,100 g,76.52,52.98,Y,Ambient,6,SUP006,Y
+PRD0310,FreshBasket Skin Care 310,Personal Care,Skin Care,UrbanHarvest,1 kg,298.66,201.12,N,Ambient,471,SUP015,Y
+PRD0311,HomeEase Oral Care 311,Personal Care,Oral Care,PrimePantry,1 unit,517.76,348.16,N,Ambient,851,SUP029,Y
+PRD0312,SnackSquare Frozen Snacks 312,Frozen Food,Frozen Snacks,GoodGrain,1 unit,293.0,218.34,Y,Frozen,307,SUP021,Y
+PRD0313,FreshBasket Dishwashing 313,Household Care,Dishwashing,UrbanHarvest,1 kg,823.32,643.63,N,Ambient,851,SUP015,Y
+PRD0314,CareBloom Laundry 314,Household Care,Laundry,HappyPaws,200 g,106.23,79.4,N,Ambient,872,SUP045,Y
+PRD0315,DailyNest Mobile Accessories 315,Electronics & Accessories,Mobile Accessories,PrimePantry,1 kg,218.1,155.55,N,Ambient,787,SUP047,Y
+PRD0316,HappyPaws Skin Care 316,Personal Care,Skin Care,UrbanHarvest,500 ml,101.17,59.27,N,Ambient,344,SUP025,Y
+PRD0317,DailyNest Spices 317,Staples,Spices,PrimePantry,Pack of 2,225.49,174.63,N,Ambient,445,SUP036,Y
+PRD0318,FreshBasket Chips & Namkeen 318,Snacks & Beverages,Chips & Namkeen,GoodGrain,1 unit,219.2,135.21,N,Ambient,258,SUP022,Y
+PRD0319,QuickChoice Surface Cleaners 319,Household Care,Surface Cleaners,FreshBasket,1 kg,66.82,39.79,N,Ambient,661,SUP037,Y
+PRD0320,DailyNest Eggs 320,Dairy & Breakfast,Eggs,FreshBasket,1 L,114.95,81.09,Y,Chilled,3,SUP009,Y
+PRD0321,NovaHome Frozen Snacks 321,Frozen Food,Frozen Snacks,HomeEase,1 unit,242.41,156.72,Y,Frozen,246,SUP050,Y
+PRD0322,PureDrop Curd & Yogurt 322,Dairy & Breakfast,Curd & Yogurt,HomeEase,Pack of 2,56.15,42.64,Y,Chilled,23,SUP048,Y
+PRD0323,UrbanHarvest Juices 323,Snacks & Beverages,Juices,QuickChoice,1 L,73.72,45.92,N,Ambient,248,SUP049,Y
+PRD0324,UrbanHarvest Fresh Vegetables 324,Fruits & Vegetables,Fresh Vegetables,PureDrop,Pack of 2,32.38,23.84,Y,Ambient,3,SUP014,Y
+PRD0325,PrimePantry Mobile Accessories 325,Electronics & Accessories,Mobile Accessories,PureDrop,1 unit,1993.04,1240.37,N,Ambient,534,SUP018,Y
+PRD0326,PrimePantry Oral Care 326,Personal Care,Oral Care,HappyPaws,200 g,942.34,625.01,N,Ambient,394,SUP029,Y
+PRD0327,UrbanHarvest Leafy Vegetables 327,Fruits & Vegetables,Leafy Vegetables,NovaHome,Pack of 4,71.09,43.19,Y,Ambient,6,SUP007,Y
+PRD0328,QuickChoice Flour 328,Staples,Flour,UrbanHarvest,Pack of 2,80.69,57.42,N,Ambient,319,SUP042,Y
+PRD0329,SnackSquare Sugar & Salt 329,Staples,Sugar & Salt,HomeEase,250 g,152.03,97.43,N,Ambient,246,SUP033,Y
+PRD0330,UrbanHarvest Biscuits 330,Snacks & Beverages,Biscuits,SnackSquare,200 g,133.2,99.34,N,Ambient,165,SUP008,Y
+PRD0331,GoodGrain Laundry 331,Household Care,Laundry,GoodGrain,Pack of 2,656.97,374.1,N,Ambient,740,SUP014,Y
+PRD0332,DailyNest Frozen Snacks 332,Frozen Food,Frozen Snacks,DailyNest,100 g,361.29,212.21,Y,Frozen,225,SUP034,Y
+PRD0333,FreshBasket Juices 333,Snacks & Beverages,Juices,NovaHome,100 g,60.9,45.6,N,Ambient,358,SUP035,Y
+PRD0334,NovaHome Pet Hygiene 334,Pet Care,Pet Hygiene,PrimePantry,Pack of 4,852.98,494.94,N,Ambient,571,SUP005,Y
+PRD0335,PrimePantry Eggs 335,Dairy & Breakfast,Eggs,SnackSquare,500 ml,225.62,145.03,Y,Chilled,25,SUP034,Y
+PRD0336,GoodGrain Dog Food 336,Pet Care,Dog Food,GoodGrain,1 L,437.14,265.96,N,Ambient,230,SUP010,Y
+PRD0337,CareBloom Tea & Coffee 337,Snacks & Beverages,Tea & Coffee,GoodGrain,Pack of 2,138.32,96.99,N,Ambient,337,SUP028,Y
+PRD0338,CareBloom Eggs 338,Dairy & Breakfast,Eggs,NovaHome,Pack of 4,60.11,36.71,Y,Chilled,20,SUP038,Y
+PRD0339,UrbanHarvest Pet Hygiene 339,Pet Care,Pet Hygiene,GoodGrain,Pack of 2,1261.33,892.45,N,Ambient,228,SUP025,Y
+PRD0340,PrimePantry Eggs 340,Dairy & Breakfast,Eggs,CareBloom,100 g,103.96,79.22,Y,Chilled,24,SUP044,Y
+PRD0341,UrbanHarvest Juices 341,Snacks & Beverages,Juices,SnackSquare,Pack of 2,190.07,139.54,N,Ambient,189,SUP030,Y
+PRD0342,NovaHome Cooking Oil 342,Staples,Cooking Oil,QuickChoice,Pack of 2,122.98,85.37,N,Ambient,360,SUP029,Y
+PRD0343,PureDrop Fresh Fruits 343,Fruits & Vegetables,Fresh Fruits,FreshBasket,Pack of 2,69.22,43.35,Y,Ambient,5,SUP004,Y
+PRD0344,GoodGrain Mobile Accessories 344,Electronics & Accessories,Mobile Accessories,HappyPaws,1 unit,411.06,247.71,N,Ambient,1036,SUP001,Y
+PRD0345,NovaHome Milk 345,Dairy & Breakfast,Milk,QuickChoice,500 g,26.41,19.92,Y,Chilled,20,SUP015,Y
+PRD0346,DailyNest Leafy Vegetables 346,Fruits & Vegetables,Leafy Vegetables,NovaHome,250 g,69.95,38.93,Y,Ambient,7,SUP018,Y
+PRD0347,PrimePantry Fresh Fruits 347,Fruits & Vegetables,Fresh Fruits,PrimePantry,500 g,65.99,53.41,Y,Ambient,5,SUP037,Y
+PRD0348,DailyNest Bread 348,Dairy & Breakfast,Bread,PureDrop,100 g,266.16,218.0,Y,Chilled,17,SUP033,Y
+PRD0349,DailyNest Ice Cream 349,Frozen Food,Ice Cream,DailyNest,250 g,131.71,74.9,Y,Frozen,340,SUP023,Y
+PRD0350,PureDrop Dishwashing 350,Household Care,Dishwashing,PureDrop,200 g,188.8,130.56,N,Ambient,422,SUP007,Y
+PRD0351,SnackSquare Biscuits 351,Snacks & Beverages,Biscuits,FreshBasket,1 kg,30.67,17.63,N,Ambient,172,SUP036,Y
+PRD0352,DailyNest Fresh Vegetables 352,Fruits & Vegetables,Fresh Vegetables,GoodGrain,1 L,31.05,20.05,Y,Ambient,9,SUP036,Y
+PRD0353,SnackSquare Baby Food 353,Baby Care,Baby Food,HappyPaws,200 g,327.21,206.6,N,Ambient,449,SUP007,Y
+PRD0354,PrimePantry Spices 354,Staples,Spices,NovaHome,200 g,180.6,110.25,N,Ambient,455,SUP004,Y
+PRD0355,HomeEase Dishwashing 355,Household Care,Dishwashing,UrbanHarvest,200 g,116.18,73.21,N,Ambient,726,SUP014,Y
+PRD0356,GoodGrain Hair Care 356,Personal Care,Hair Care,DailyNest,1 L,115.22,85.57,N,Ambient,617,SUP024,Y
+PRD0357,HappyPaws Baby Hygiene 357,Baby Care,Baby Hygiene,PureDrop,Pack of 4,452.35,290.95,N,Ambient,449,SUP048,Y
+PRD0358,HappyPaws Batteries 358,Electronics & Accessories,Batteries,NovaHome,500 ml,602.35,397.5,N,Ambient,813,SUP028,Y
+PRD0359,NovaHome Baby Hygiene 359,Baby Care,Baby Hygiene,PureDrop,Pack of 4,346.27,246.52,N,Ambient,609,SUP012,Y
+PRD0360,NovaHome Ice Cream 360,Frozen Food,Ice Cream,PureDrop,500 g,208.4,117.29,Y,Frozen,210,SUP032,Y
+PRD0361,PrimePantry Paper & Disposables 361,Household Care,Paper & Disposables,QuickChoice,250 g,740.23,567.07,N,Ambient,533,SUP025,Y
+PRD0362,HappyPaws Eggs 362,Dairy & Breakfast,Eggs,HomeEase,100 g,71.17,57.46,Y,Chilled,21,SUP028,Y
+PRD0363,GoodGrain Bread 363,Dairy & Breakfast,Bread,GoodGrain,500 ml,68.17,48.06,Y,Chilled,5,SUP049,Y
+PRD0364,QuickChoice Tea & Coffee 364,Snacks & Beverages,Tea & Coffee,PrimePantry,1 L,64.93,43.4,N,Ambient,162,SUP001,Y
+PRD0365,PureDrop Ice Cream 365,Frozen Food,Ice Cream,FreshBasket,500 ml,211.38,124.32,Y,Frozen,51,SUP021,Y
+PRD0366,NovaHome Fresh Vegetables 366,Fruits & Vegetables,Fresh Vegetables,QuickChoice,500 g,61.42,35.91,Y,Ambient,4,SUP017,Y
+PRD0367,PureDrop Pulses 367,Staples,Pulses,PrimePantry,1 unit,91.24,71.0,N,Ambient,263,SUP013,Y
+PRD0368,UrbanHarvest Hair Care 368,Personal Care,Hair Care,UrbanHarvest,1 kg,40.49,24.08,N,Ambient,898,SUP013,Y
+PRD0369,HappyPaws Fresh Vegetables 369,Fruits & Vegetables,Fresh Vegetables,NovaHome,1 kg,40.88,27.38,Y,Ambient,10,SUP013,Y
+PRD0370,HomeEase Bread 370,Dairy & Breakfast,Bread,HomeEase,Pack of 4,35.17,25.77,Y,Chilled,15,SUP032,Y
+PRD0371,PrimePantry Chips & Namkeen 371,Snacks & Beverages,Chips & Namkeen,SnackSquare,500 ml,273.39,167.18,N,Ambient,214,SUP007,Y
+PRD0372,CareBloom Mobile Accessories 372,Electronics & Accessories,Mobile Accessories,SnackSquare,500 ml,361.78,265.55,N,Ambient,603,SUP045,Y
+PRD0373,SnackSquare Milk 373,Dairy & Breakfast,Milk,HappyPaws,500 ml,29.55,17.4,Y,Chilled,28,SUP028,Y
+PRD0374,CareBloom Oral Care 374,Personal Care,Oral Care,FreshBasket,1 L,26.34,20.88,N,Ambient,605,SUP023,Y
+PRD0375,PrimePantry Juices 375,Snacks & Beverages,Juices,CareBloom,1 unit,232.61,163.62,N,Ambient,237,SUP036,Y
+PRD0376,QuickChoice Sugar & Salt 376,Staples,Sugar & Salt,PureDrop,1 kg,88.32,70.1,N,Ambient,536,SUP027,Y
+PRD0377,PureDrop Small Appliances 377,Electronics & Accessories,Small Appliances,FreshBasket,250 g,516.74,379.27,N,Ambient,525,SUP020,Y
+PRD0378,CareBloom Oral Care 378,Personal Care,Oral Care,QuickChoice,500 g,31.64,24.34,N,Ambient,514,SUP023,Y
+PRD0379,FreshBasket Bath & Body 379,Personal Care,Bath & Body,QuickChoice,250 g,800.37,601.13,N,Ambient,319,SUP026,Y
+PRD0380,PrimePantry Chips & Namkeen 380,Snacks & Beverages,Chips & Namkeen,CareBloom,1 kg,61.55,44.55,N,Ambient,356,SUP044,Y
+PRD0381,GoodGrain Ice Cream 381,Frozen Food,Ice Cream,HappyPaws,500 ml,136.44,77.84,Y,Frozen,91,SUP036,Y
+PRD0382,HappyPaws Fresh Vegetables 382,Fruits & Vegetables,Fresh Vegetables,QuickChoice,1 kg,139.78,104.79,Y,Ambient,7,SUP024,Y
+PRD0383,UrbanHarvest Fresh Vegetables 383,Fruits & Vegetables,Fresh Vegetables,DailyNest,1 kg,84.16,64.59,Y,Ambient,7,SUP006,Y
+PRD0384,PrimePantry Hair Care 384,Personal Care,Hair Care,DailyNest,250 g,779.86,445.95,N,Ambient,267,SUP034,Y
+PRD0385,PrimePantry Breakfast Cereals 385,Dairy & Breakfast,Breakfast Cereals,HappyPaws,1 kg,167.52,127.84,Y,Chilled,3,SUP045,Y
+PRD0386,SnackSquare Soft Drinks 386,Snacks & Beverages,Soft Drinks,HappyPaws,100 g,74.89,42.0,N,Ambient,290,SUP028,Y
+PRD0387,QuickChoice Ice Cream 387,Frozen Food,Ice Cream,DailyNest,200 g,378.52,298.29,Y,Frozen,115,SUP012,Y
+PRD0388,DailyNest Cat Food 388,Pet Care,Cat Food,FreshBasket,1 L,594.5,470.21,N,Ambient,519,SUP024,Y
+PRD0389,HomeEase Small Appliances 389,Electronics & Accessories,Small Appliances,PureDrop,1 L,221.85,137.58,N,Ambient,1254,SUP006,Y
+PRD0390,CareBloom Flour 390,Staples,Flour,DailyNest,250 g,204.01,127.86,N,Ambient,431,SUP005,Y
+PRD0391,QuickChoice Frozen Snacks 391,Frozen Food,Frozen Snacks,QuickChoice,500 g,380.24,307.45,Y,Frozen,137,SUP022,Y
+PRD0392,HappyPaws Frozen Snacks 392,Frozen Food,Frozen Snacks,CareBloom,1 unit,570.81,454.01,Y,Frozen,277,SUP025,Y
+PRD0393,SnackSquare Pulses 393,Staples,Pulses,SnackSquare,Pack of 2,908.06,661.58,N,Ambient,456,SUP001,Y
+PRD0394,PrimePantry Dog Food 394,Pet Care,Dog Food,HomeEase,250 g,978.49,648.86,N,Ambient,696,SUP041,Y
+PRD0395,NovaHome Milk 395,Dairy & Breakfast,Milk,DailyNest,1 L,97.82,60.31,Y,Chilled,29,SUP009,Y
+PRD0396,CareBloom Cooking Oil 396,Staples,Cooking Oil,PureDrop,200 g,627.27,432.28,N,Ambient,525,SUP026,Y
+PRD0397,GoodGrain Fresh Fruits 397,Fruits & Vegetables,Fresh Fruits,HappyPaws,Pack of 2,53.6,30.92,Y,Ambient,9,SUP013,Y
+PRD0398,PureDrop Eggs 398,Dairy & Breakfast,Eggs,SnackSquare,500 g,117.57,75.48,Y,Chilled,11,SUP003,Y
+PRD0399,HappyPaws Mobile Accessories 399,Electronics & Accessories,Mobile Accessories,FreshBasket,500 ml,1225.85,809.93,N,Ambient,1097,SUP006,Y
+PRD0400,CareBloom Tea & Coffee 400,Snacks & Beverages,Tea & Coffee,SnackSquare,500 g,105.27,74.7,N,Ambient,276,SUP014,Y

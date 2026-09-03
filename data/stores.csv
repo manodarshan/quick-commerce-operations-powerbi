@@ -1,0 +1,19 @@
+store_id,store_name,city,zone,pincode,launch_date,store_format,sampled_capacity_orders_per_shift,service_radius_km,operating_start,operating_end,manager_id,active_flag,latitude,longitude
+MFC001,Whitefield Micro Fulfilment Centre,Bengaluru,Whitefield,560066,2025-09-01,Dark Store,21,5.2,06:00,23:59,MGR001,Y,12.963145,77.584859
+MFC002,Marathahalli Micro Fulfilment Centre,Bengaluru,Marathahalli,560037,2024-07-07,Dark Store,42,5.4,06:00,23:59,MGR002,Y,13.01081,77.62903
+MFC003,Koramangala Micro Fulfilment Centre,Bengaluru,Koramangala,560095,2025-05-23,Dark Store,20,5.6,06:00,23:59,MGR003,Y,12.979265,77.548296
+MFC004,HSR Layout Micro Fulfilment Centre,Bengaluru,HSR Layout,560102,2025-04-20,Dark Store,38,4.1,06:00,23:59,MGR004,Y,12.983226,77.614114
+MFC005,Indiranagar Micro Fulfilment Centre,Bengaluru,Indiranagar,560038,2024-05-16,Dark Store,32,3.1,06:00,23:59,MGR005,Y,12.992866,77.573442
+MFC006,Gurugram Sector 43 Micro Fulfilment Centre,Delhi NCR,Gurugram Sector 43,122002,2024-12-05,Dark Store,40,3.4,06:00,23:59,MGR006,Y,28.43612,76.934448
+MFC007,Noida Sector 62 Micro Fulfilment Centre,Delhi NCR,Noida Sector 62,201309,2024-07-01,Dark Store,34,6.1,06:00,23:59,MGR007,Y,28.458249,76.996228
+MFC008,Dwarka Micro Fulfilment Centre,Delhi NCR,Dwarka,110075,2025-06-08,Dark Store,27,6.3,06:00,23:59,MGR008,Y,28.469124,77.062203
+MFC009,Andheri East Micro Fulfilment Centre,Mumbai,Andheri East,400069,2025-09-09,Dark Store,28,4.4,06:00,23:59,MGR009,Y,19.087935,72.889062
+MFC010,Powai Micro Fulfilment Centre,Mumbai,Powai,400076,2024-09-21,Dark Store,31,5.5,06:00,23:59,MGR010,Y,19.042669,72.907091
+MFC011,Thane West Micro Fulfilment Centre,Mumbai,Thane West,400601,2025-06-21,Dark Store,39,5.0,06:00,23:59,MGR011,Y,19.138571,72.884281
+MFC012,Gachibowli Micro Fulfilment Centre,Hyderabad,Gachibowli,500032,2024-05-20,Dark Store,22,5.2,06:00,23:59,MGR012,Y,17.347826,78.454723
+MFC013,Madhapur Micro Fulfilment Centre,Hyderabad,Madhapur,500081,2024-09-27,Dark Store,26,4.2,06:00,23:59,MGR013,Y,17.402091,78.477199
+MFC014,Kukatpally Micro Fulfilment Centre,Hyderabad,Kukatpally,500072,2024-01-05,Dark Store,39,6.3,06:00,23:59,MGR014,Y,17.346387,78.530694
+MFC015,Velachery Micro Fulfilment Centre,Chennai,Velachery,600042,2024-02-16,Dark Store,29,5.6,06:00,23:59,MGR015,Y,13.062379,80.287453
+MFC016,Anna Nagar Micro Fulfilment Centre,Chennai,Anna Nagar,600040,2025-06-11,Dark Store,32,4.1,06:00,23:59,MGR016,Y,13.085632,80.227937
+MFC017,Hinjawadi Micro Fulfilment Centre,Pune,Hinjawadi,411057,2025-07-19,Dark Store,41,5.8,06:00,23:59,MGR017,Y,18.580122,73.792621
+MFC018,Kharadi Micro Fulfilment Centre,Pune,Kharadi,411014,2024-08-15,Dark Store,40,6.0,06:00,23:59,MGR018,Y,18.474685,73.836854
