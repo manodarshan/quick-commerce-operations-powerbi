@@ -1,6 +1,8 @@
 # ⚡ Quick Commerce Operations & Fulfillment Intelligence Dashboard
 
-An end-to-end operational analytics dashboard built in Power BI to monitor real-time order fulfillment, delivery SLA compliance, dark store inventory health, and customer return drivers across 25,000+ orders.
+An end-to-end data analytics project monitoring real-time order fulfillment, dark store stockout risks, delivery SLA compliance, and customer return drivers across 25,000+ orders. 
+
+This repository documents the full lifecycle of an enterprise analytics product: **Relational Database Design (SQL Server)** $\rightarrow$ **Data Profiling & Auditing (EDA)** $\rightarrow$ **Executive Reporting (Power BI)**.
 
 ---
 
@@ -20,40 +22,53 @@ An end-to-end operational analytics dashboard built in Power BI to monitor real-
 
 ---
 
-## 🎯 Business Problem & Objectives
-Quick Commerce models rely on ultra-fast fulfillment cycles (10–15 minutes). Minor inefficiencies in order picking, packing, or rider dispatch directly impact SLA adherence, trigger customer complaints, and create financial leakage through refunds. 
+## 🎯 Business Context & Operational Problems
 
-This project delivers full operational visibility across 4 key functional pillars:
-1. **Macro Financial & Fulfillment Health:** Monitoring Daily Orders, Net Revenue, AOV, Gross Margin %, and overall SLA adherence.
-2. **Dispatch & Transit Bottlenecks:** Isolating latency across picking, packing, assignment, and delivery times, cross-referenced with distance bands.
-3. **Inventory & Dark Store Capacity:** Identifying stockout risks, fulfillment rate by warehouse, and shift-level operational load.
-4. **Post-Delivery Quality & Unit Economics:** Pinpointing root causes for returns, complaint categories, and refund leakage across dark stores.
+Quick Commerce relies on ultra-compressed fulfillment cycles (10–15 minutes). Latency across warehouse staging or transit cascades into breached SLAs, stockouts, customer dissatisfaction, and refund-driven financial leakage.
+
+This project delivers operational intelligence across four critical pillars:
+1. **Executive Operations:** Macro monitoring of order volume, Net Revenue, Gross Margin %, and SLA adherence across geographies.
+2. **Delivery & SLA:** Isolating operational bottlenecks across picking, packing, rider assignment, and transit durations cross-referenced against distance bands.
+3. **Inventory & Dark Store Health:** Real-time visibility into stockout units, warehouse fulfillment rates, and shift capacity utilization.
+4. **Customer Experience:** Root cause analysis for customer complaints, refund leakage, and dark store quality risk matrices.
 
 ---
 
-## 📊 Dashboard Architecture
+## 📊 Dashboard Modules & Key Performance Indicators (KPIs)
 
-| Page # | Page Name | Core Focus & KPIs | Key Visuals |
+| Page # | Focus Area | Primary KPIs | Key Visuals & Analysis |
 | :--- | :--- | :--- | :--- |
-| **1** | **Executive Overview** | Total Orders, Net Revenue, AOV, Gross Margin %, Fulfilment vs SLA % | Dual-axis Daily Volume vs SLA, 100% Stacked City Outcome Mix, Store Performance Matrix |
-| **2** | **Delivery & SLA** | On-Time Rate %, SLA Breach %, Avg Delivery / Pick / Pack / Travel Mins | Stage-wise Duration Funnel, Distance Band Breach Impact, Hourly Adherence Heatmap |
-| **3** | **Inventory Operations** | Ordered vs Fulfilled Items, Stockout Units, Item Fulfilment Rate % | Inventory Risk Level Donut, Dark Store Stockout Bars, Shift Performance Matrix |
-| **4** | **Customer Experience** | Total Complaints, Total Refund Amount, Complaint Rate %, Return Rate % | Complaint Issue Categories Bar, City Refund Impact vs Rate, Store Quality Matrix |
+| **1** | **Executive Overview** | Total Orders, Net Revenue, AOV, Gross Margin %, Fulfillment vs. SLA % | Daily Order Volume vs. SLA dual-axis trend, City-level outcome mix (100% stacked), Store scorecard matrix |
+| **2** | **Delivery & SLA** | On-Time Rate %, SLA Breach %, Avg Delivery / Pick / Pack / Assignment Mins | Stage-wise duration breakdown, SLA breach rate by distance bands, Hourly SLA adherence heatmap |
+| **3** | **Inventory Operations** | Ordered vs. Fulfilled Items, Stockout Units, Item Fulfillment Rate % | Stockout risk level donut chart, Store-level stockout unit ranking, Shift utilization capacity matrix |
+| **4** | **Customer Experience** | Total Complaints, Total Refund Amount, Complaint Rate %, Return Rate % | Complaint category breakdown, City refund impact vs. complaint rate scatter, Store quality risk matrix |
 
 ---
 
-## 🛠️ Data Model & Tech Stack
-- **BI Tool:** Microsoft Power BI Desktop
-- **Data Model:** Relational Star Schema connecting:
-  - Fact Tables: `Orders`, `order_items`, `returns_complaints`, `inventory_weekly`, `store_shift_operations`
-  - Dimension Tables: `stores`, `products`, `customers`, `delivery_partners`, `Dim_Date`, `Dim_Shift`
-- **DAX Calculations:** 24 custom measures utilizing dynamic time intelligence, weighted ratios, and multi-condition filtering.
+## 🛠️ End-to-End Analytics Workflow
+
+### 1. Database Architecture & Schema Design (SQL Server)
+- **Script:** [`Quick_Commerce_SQL_Server_Schema.sql`](Quick_Commerce_SQL_Server_Schema.sql)
+- Normalized relational database schema with Primary Key (PK) and Foreign Key (FK) constraints.
+- Integrated fact tables (`Orders`, `order_items`, `returns_complaints`, `inventory_weekly`, `store_shift_operations`) and dimension tables (`stores`, `products`, `customers`, `delivery_partners`).
+
+### 2. Exploratory Data Analysis (EDA)
+- **File:** [`Quick_Commerce_Beginner_EDA`](Quick_Commerce_Beginner_EDA)
+- Audited 25,000+ transactional records for data integrity, missing values, and anomalies.
+- Identified correlation between dark store packing latency and transit distance breach thresholds.
+
+### 3. Business Intelligence & Modeling (Power BI)
+- **File:** [`Quick_Commerce_Operations.pbix`](Quick_Commerce_Operations.pbix)
+- Modeled a Star Schema with bidirectional filter control where necessary.
+- Formatted clean Indian Rupee (₹) / currency standards across metrics.
+- Developed 24 custom DAX measures utilizing time intelligence, multi-condition filters, and dynamic ratio logic.
 
 ---
 
 ## 📁 Repository Structure
+
 ```text
-├── data/
+├── data/                                 # Raw source CSV datasets (9 tables)
 │   ├── Orders.csv
 │   ├── customers.csv
 │   ├── delivery_partners.csv
@@ -63,10 +78,12 @@ This project delivers full operational visibility across 4 key functional pillar
 │   ├── returns_complaints.csv
 │   ├── store_shift_operations.csv
 │   └── stores.csv
-├── images/
+├── images/                               # High-resolution dashboard screenshots
 │   ├── page1_executive_overview.png
 │   ├── page2_delivery_sla.png
 │   ├── page3_inventory_operations.png
 │   └── page4_customer_experience.png
-├── Quick_Commerce_Operations.pbix
-└── README.md
+├── Quick_Commerce_Beginner_EDA           # Exploratory data analysis file
+├── Quick_Commerce_SQL_Server_Schema.sql  # Database schema & DDL scripts
+├── Quick_Commerce_Operations.pbix        # Interactive Power BI report file
+└── README.md                             # Project documentation
